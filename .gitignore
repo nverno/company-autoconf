@@ -1,0 +1,9 @@
+*.elc
+*~
+.#*
+*loaddefs.el
+*.html 
+*autoloads.el  
+*.org
+.dir-locals.el
+*.json
