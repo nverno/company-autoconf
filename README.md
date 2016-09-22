@@ -3,7 +3,8 @@
 
 Description:
 
- Emacs company completion backend for autoconf files.
+ Emacs company completion backend for autoconf files.  Currently completes
+ for autoconf/automake macros and jumps html documentation for company doc-buffer.
 
 
 ---

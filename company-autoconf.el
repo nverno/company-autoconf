@@ -27,7 +27,8 @@
 
 ;;; Description:
 
-;;  Emacs company completion backend for autoconf files.
+;;  Emacs company completion backend for autoconf files.  Currently completes
+;;  for autoconf/automake macros and jumps html documentation for company doc-buffer.
 
 ;;; Code:
 (eval-when-compile
@@ -43,7 +44,7 @@
 
 ;; ------------------------------------------------------------
 ;;* Internal
-(defvar company-autoconf-url)
+(defvar company-autoconf-urls)
 (defvar company-autoconf-dir)
 (setq company-autoconf-dir
       (when load-file-name (file-name-directory load-file-name)))
@@ -57,15 +58,16 @@
 (defvar company-autoconf-keywords
   (let ((data (company-autoconf-load
                (expand-file-name company-autoconf-data-file company-autoconf-dir))))
-    (setq company-autoconf-url
-          (concat (car (split-string (cdr (assoc-string "root" data)) "html_node"))
-                  "html_node/"))
+    (setq company-autoconf-urls 
+          (cl-loop for url across (cdr (assoc-string "roots" data))
+             collect (concat (car (split-string url "html_node")) "html_node/")))
     (sort
      (cl-loop for (k . v) in data
-        unless (string= k "root")
+        unless (string= k "roots")
         do
           (put-text-property 0 1 'annot (aref v 1) k)
           (put-text-property 0 1 'href (aref v 0) k)
+          (put-text-property 0 1 'index (aref v 2) k)
         collect k)
      'string<)))
 
@@ -85,7 +87,8 @@
 (defun company-autoconf-location (candidate)
   "Jump to CANDIDATE documentation in browser."
   (browse-url
-   (concat company-autoconf-url (get-text-property 0 'href candidate))))
+   (concat (nth (get-text-property 0 'index candidate) company-autoconf-urls)
+           (get-text-property 0 'href candidate))))
 
 ;;;###autoload
 (defun company-autoconf (command &optional arg &rest _args)

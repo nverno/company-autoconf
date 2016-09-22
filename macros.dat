@@ -1,781 +1,842 @@
-(("AC_ACT_IFELSE" .
-  ["AC_005fACT_005fIFELSE-vs-AC_005fTRY_005fACT.html#index-AC_005f_0040var_007bACT_007d_005fIFELSE-2255" "AC_ACT_IFELSE vs AC_TRY_ACT"])
+(("roots" .
+  ["http://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.69/html_node/Autoconf-Macro-Index.html#Autoconf-Macro-Index" "https://www.gnu.org/software/automake/manual/html_node/Macro-Index.html#Macro-Index"])
+ ("AC_ACT_IFELSE" .
+  ["AC_005fACT_005fIFELSE-vs-AC_005fTRY_005fACT.html#index-AC_005f_0040var_007bACT_007d_005fIFELSE-2255" "AC_ACT_IFELSE vs AC_TRY_ACT" 0])
  ("AC_AIX" .
-  ["Obsolete-Macros.html#index-AC_005fAIX-1986" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fAIX-1986" "Obsolete Macros" 0])
  ("AC_ALLOCA" .
-  ["Obsolete-Macros.html#index-AC_005fALLOCA-1989" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fALLOCA-1989" "Obsolete Macros" 0])
  ("AC_ARG_ARRAY" .
-  ["Obsolete-Macros.html#index-AC_005fARG_005fARRAY-1991" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fARG_005fARRAY-1991" "Obsolete Macros" 0])
  ("AC_ARG_ENABLE" .
-  ["Package-Options.html#index-AC_005fARG_005fENABLE-1944" "Package Options"])
+  ["Package-Options.html#index-AC_005fARG_005fENABLE-1944" "Package Options" 0])
  ("AC_ARG_PROGRAM" .
-  ["Transforming-Names.html#index-AC_005fARG_005fPROGRAM-1955" "Transforming Names"])
+  ["Transforming-Names.html#index-AC_005fARG_005fPROGRAM-1955" "Transforming Names" 0])
  ("AC_ARG_VAR" .
-  ["Setting-Output-Variables.html#index-AC_005fARG_005fVAR-1209" "Setting Output Variables"])
+  ["Setting-Output-Variables.html#index-AC_005fARG_005fVAR-1209" "Setting Output Variables" 0])
  ("AC_ARG_WITH" .
-  ["External-Software.html#index-AC_005fARG_005fWITH-1940" "External Software"])
+  ["External-Software.html#index-AC_005fARG_005fWITH-1940" "External Software" 0])
  ("AC_AUTOCONF_VERSION" .
-  ["Versioning.html#index-AC_005fAUTOCONF_005fVERSION-47" "Versioning"])
+  ["Versioning.html#index-AC_005fAUTOCONF_005fVERSION-47" "Versioning" 0])
  ("AC_BEFORE" .
-  ["Suggested-Ordering.html#index-AC_005fBEFORE-1665" "Suggested Ordering"])
+  ["Suggested-Ordering.html#index-AC_005fBEFORE-1665" "Suggested Ordering" 0])
  ("AC_C_BACKSLASH_A" .
-  ["C-Compiler.html#index-AC_005fC_005fBACKSLASH_005fA-889" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fC_005fBACKSLASH_005fA-889" "C Compiler" 0])
  ("AC_C_BIGENDIAN" .
-  ["C-Compiler.html#index-AC_005fC_005fBIGENDIAN-892" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fC_005fBIGENDIAN-892" "C Compiler" 0])
  ("AC_C_CHAR_UNSIGNED" .
-  ["C-Compiler.html#index-AC_005fC_005fCHAR_005fUNSIGNED-910" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fC_005fCHAR_005fUNSIGNED-910" "C Compiler" 0])
  ("AC_C_CONST" .
-  ["C-Compiler.html#index-AC_005fC_005fCONST-896" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fC_005fCONST-896" "C Compiler" 0])
  ("AC_C_CROSS" .
-  ["Obsolete-Macros.html#index-AC_005fC_005fCROSS-1993" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fC_005fCROSS-1993" "Obsolete Macros" 0])
  ("AC_C_FLEXIBLE_ARRAY_MEMBER" .
-  ["C-Compiler.html#index-AC_005fC_005fFLEXIBLE_005fARRAY_005fMEMBER-916" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fC_005fFLEXIBLE_005fARRAY_005fMEMBER-916" "C Compiler" 0])
  ("AC_C_INLINE" .
-  ["C-Compiler.html#index-AC_005fC_005fINLINE-907" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fC_005fINLINE-907" "C Compiler" 0])
  ("AC_C_LONG_DOUBLE" .
-  ["Obsolete-Macros.html#index-AC_005fC_005fLONG_005fDOUBLE-1995" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fC_005fLONG_005fDOUBLE-1995" "Obsolete Macros" 0])
  ("AC_C_PROTOTYPES" .
-  ["C-Compiler.html#index-AC_005fC_005fPROTOTYPES-926" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fC_005fPROTOTYPES-926" "C Compiler" 0])
  ("AC_C_RESTRICT" .
-  ["C-Compiler.html#index-AC_005fC_005fRESTRICT-900" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fC_005fRESTRICT-900" "C Compiler" 0])
  ("AC_C_STRINGIZE" .
-  ["C-Compiler.html#index-AC_005fC_005fSTRINGIZE-913" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fC_005fSTRINGIZE-913" "C Compiler" 0])
  ("AC_C_TYPEOF" .
-  ["C-Compiler.html#index-AC_005fC_005fTYPEOF-922" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fC_005fTYPEOF-922" "C Compiler" 0])
  ("AC_C_VARARRAYS" .
-  ["C-Compiler.html#index-AC_005fC_005fVARARRAYS-919" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fC_005fVARARRAYS-919" "C Compiler" 0])
  ("AC_C_VOLATILE" .
-  ["C-Compiler.html#index-AC_005fC_005fVOLATILE-904" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fC_005fVOLATILE-904" "C Compiler" 0])
  ("AC_CACHE_CHECK" .
-  ["Caching-Results.html#index-AC_005fCACHE_005fCHECK-1215" "Caching Results"])
+  ["Caching-Results.html#index-AC_005fCACHE_005fCHECK-1215" "Caching Results" 0])
  ("AC_CACHE_LOAD" .
-  ["Cache-Checkpointing.html#index-AC_005fCACHE_005fLOAD-1218" "Cache Checkpointing"])
+  ["Cache-Checkpointing.html#index-AC_005fCACHE_005fLOAD-1218" "Cache Checkpointing" 0])
  ("AC_CACHE_SAVE" .
-  ["Cache-Checkpointing.html#index-AC_005fCACHE_005fSAVE-1220" "Cache Checkpointing"])
+  ["Cache-Checkpointing.html#index-AC_005fCACHE_005fSAVE-1220" "Cache Checkpointing" 0])
  ("AC_CACHE_VAL" .
-  ["Caching-Results.html#index-AC_005fCACHE_005fVAL-1213" "Caching Results"])
+  ["Caching-Results.html#index-AC_005fCACHE_005fVAL-1213" "Caching Results" 0])
  ("AC_CANONICAL_BUILD" .
-  ["Canonicalizing.html#index-AC_005fCANONICAL_005fBUILD-1919" "Canonicalizing"])
+  ["Optional.html#index-AC_005fCANONICAL_005fBUILD" "Optional" 1])
  ("AC_CANONICAL_HOST" .
-  ["Canonicalizing.html#index-AC_005fCANONICAL_005fHOST-1925" "Canonicalizing"])
+  ["Optional.html#index-AC_005fCANONICAL_005fHOST" "Optional" 1])
  ("AC_CANONICAL_SYSTEM" .
-  ["Obsolete-Macros.html#index-AC_005fCANONICAL_005fSYSTEM-1998" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fCANONICAL_005fSYSTEM-1998" "Obsolete Macros" 0])
  ("AC_CANONICAL_TARGET" .
-  ["Canonicalizing.html#index-AC_005fCANONICAL_005fTARGET-1931" "Canonicalizing"])
+  ["Optional.html#index-AC_005fCANONICAL_005fTARGET" "Optional" 1])
  ("AC_CHAR_UNSIGNED" .
-  ["Obsolete-Macros.html#index-AC_005fCHAR_005fUNSIGNED-2000" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fCHAR_005fUNSIGNED-2000" "Obsolete Macros" 0])
  ("AC_CHECK_ALIGNOF" .
-  ["Generic-Compiler-Characteristics.html#index-AC_005fCHECK_005fALIGNOF-843" "Generic Compiler Characteristics"])
+  ["Generic-Compiler-Characteristics.html#index-AC_005fCHECK_005fALIGNOF-843" "Generic Compiler Characteristics" 0])
  ("AC_CHECK_DECL" .
-  ["Generic-Declarations.html#index-AC_005fCHECK_005fDECL-677" "Generic Declarations"])
+  ["Generic-Declarations.html#index-AC_005fCHECK_005fDECL-677" "Generic Declarations" 0])
  ("AC_CHECK_DECLS" .
-  ["Generic-Declarations.html#index-AC_005fCHECK_005fDECLS-680" "Generic Declarations"])
+  ["Generic-Declarations.html#index-AC_005fCHECK_005fDECLS-680" "Generic Declarations" 0])
  ("AC_CHECK_DECLS_ONCE" .
-  ["Generic-Declarations.html#index-AC_005fCHECK_005fDECLS_005fONCE-684" "Generic Declarations"])
+  ["Generic-Declarations.html#index-AC_005fCHECK_005fDECLS_005fONCE-684" "Generic Declarations" 0])
  ("AC_CHECK_FILE" .
-  ["Files.html#index-AC_005fCHECK_005fFILE-334" "Files"])
+  ["Files.html#index-AC_005fCHECK_005fFILE-334" "Files" 0])
  ("AC_CHECK_FILES" .
-  ["Files.html#index-AC_005fCHECK_005fFILES-337" "Files"])
+  ["Files.html#index-AC_005fCHECK_005fFILES-337" "Files" 0])
  ("AC_CHECK_FUNC" .
-  ["Generic-Functions.html#index-AC_005fCHECK_005fFUNC-560" "Generic Functions"])
+  ["Generic-Functions.html#index-AC_005fCHECK_005fFUNC-560" "Generic Functions" 0])
  ("AC_CHECK_FUNCS" .
-  ["Generic-Functions.html#index-AC_005fCHECK_005fFUNCS-563" "Generic Functions"])
+  ["Generic-Functions.html#index-AC_005fCHECK_005fFUNCS-563" "Generic Functions" 0])
  ("AC_CHECK_FUNCS_ONCE" .
-  ["Generic-Functions.html#index-AC_005fCHECK_005fFUNCS_005fONCE-566" "Generic Functions"])
+  ["Generic-Functions.html#index-AC_005fCHECK_005fFUNCS_005fONCE-566" "Generic Functions" 0])
  ("AC_CHECK_HEADER" .
-  ["Generic-Headers.html#index-AC_005fCHECK_005fHEADER-666" "Generic Headers"])
+  ["Generic-Headers.html#index-AC_005fCHECK_005fHEADER-666" "Generic Headers" 0])
  ("AC_CHECK_HEADER_STDBOOL" .
-  ["Particular-Headers.html#index-AC_005fCHECK_005fHEADER_005fSTDBOOL-598" "Particular Headers"])
+  ["Particular-Headers.html#index-AC_005fCHECK_005fHEADER_005fSTDBOOL-598" "Particular Headers" 0])
  ("AC_CHECK_HEADERS" .
-  ["Generic-Headers.html#index-AC_005fCHECK_005fHEADERS-669" "Generic Headers"])
+  ["Generic-Headers.html#index-AC_005fCHECK_005fHEADERS-669" "Generic Headers" 0])
  ("AC_CHECK_HEADERS_ONCE" .
-  ["Generic-Headers.html#index-AC_005fCHECK_005fHEADERS_005fONCE-673" "Generic Headers"])
+  ["Generic-Headers.html#index-AC_005fCHECK_005fHEADERS_005fONCE-673" "Generic Headers" 0])
  ("AC_CHECK_LIB" .
-  ["Libraries.html#index-AC_005fCHECK_005fLIB-341" "Libraries"])
+  ["Libraries.html#index-AC_005fCHECK_005fLIB-341" "Libraries" 0])
  ("AC_CHECK_MEMBER" .
-  ["Generic-Structures.html#index-AC_005fCHECK_005fMEMBER-711" "Generic Structures"])
+  ["Generic-Structures.html#index-AC_005fCHECK_005fMEMBER-711" "Generic Structures" 0])
  ("AC_CHECK_MEMBERS" .
-  ["Generic-Structures.html#index-AC_005fCHECK_005fMEMBERS-714" "Generic Structures"])
+  ["Generic-Structures.html#index-AC_005fCHECK_005fMEMBERS-714" "Generic Structures" 0])
  ("AC_CHECK_PROG" .
-  ["Generic-Programs.html#index-AC_005fCHECK_005fPROG-304" "Generic Programs"])
+  ["Generic-Programs.html#index-AC_005fCHECK_005fPROG-304" "Generic Programs" 0])
  ("AC_CHECK_PROGS" .
-  ["Generic-Programs.html#index-AC_005fCHECK_005fPROGS-307" "Generic Programs"])
+  ["Generic-Programs.html#index-AC_005fCHECK_005fPROGS-307" "Generic Programs" 0])
  ("AC_CHECK_SIZEOF" .
-  ["Generic-Compiler-Characteristics.html#index-AC_005fCHECK_005fSIZEOF-839" "Generic Compiler Characteristics"])
+  ["Generic-Compiler-Characteristics.html#index-AC_005fCHECK_005fSIZEOF-839" "Generic Compiler Characteristics" 0])
  ("AC_CHECK_TARGET_TOOL" .
-  ["Generic-Programs.html#index-AC_005fCHECK_005fTARGET_005fTOOL-310" "Generic Programs"])
+  ["Generic-Programs.html#index-AC_005fCHECK_005fTARGET_005fTOOL-310" "Generic Programs" 0])
  ("AC_CHECK_TARGET_TOOLS" .
-  ["Generic-Programs.html#index-AC_005fCHECK_005fTARGET_005fTOOLS-314" "Generic Programs"])
+  ["Generic-Programs.html#index-AC_005fCHECK_005fTARGET_005fTOOLS-314" "Generic Programs" 0])
  ("AC_CHECK_TOOL" .
-  ["Generic-Programs.html#index-AC_005fCHECK_005fTOOL-312" "Generic Programs"])
+  ["Generic-Programs.html#index-AC_005fCHECK_005fTOOL-312" "Generic Programs" 0])
  ("AC_CHECK_TOOLS" .
-  ["Generic-Programs.html#index-AC_005fCHECK_005fTOOLS-316" "Generic Programs"])
+  ["Generic-Programs.html#index-AC_005fCHECK_005fTOOLS-316" "Generic Programs" 0])
  ("AC_CHECK_TYPE" .
-  ["Generic-Types.html#index-AC_005fCHECK_005fTYPE-829" "Generic Types"])
+  ["Generic-Types.html#index-AC_005fCHECK_005fTYPE-829" "Generic Types" 0])
  ("AC_CHECK_TYPES" .
-  ["Generic-Types.html#index-AC_005fCHECK_005fTYPES-832" "Generic Types"])
+  ["Generic-Types.html#index-AC_005fCHECK_005fTYPES-832" "Generic Types" 0])
  ("AC_CHECKING" .
-  ["Obsolete-Macros.html#index-AC_005fCHECKING-2004" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fCHECKING-2004" "Obsolete Macros" 0])
  ("AC_COMPILE_CHECK" .
-  ["Obsolete-Macros.html#index-AC_005fCOMPILE_005fCHECK-2006" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fCOMPILE_005fCHECK-2006" "Obsolete Macros" 0])
  ("AC_COMPILE_IFELSE" .
-  ["Running-the-Compiler.html#index-AC_005fCOMPILE_005fIFELSE-1180" "Running the Compiler"])
+  ["Running-the-Compiler.html#index-AC_005fCOMPILE_005fIFELSE-1180" "Running the Compiler" 0])
  ("AC_COMPUTE_INT" .
-  ["Generic-Compiler-Characteristics.html#index-AC_005fCOMPUTE_005fINT-847" "Generic Compiler Characteristics"])
+  ["Generic-Compiler-Characteristics.html#index-AC_005fCOMPUTE_005fINT-847" "Generic Compiler Characteristics" 0])
  ("AC_CONFIG_AUX_DIR" .
-  ["Input.html#index-AC_005fCONFIG_005fAUX_005fDIR-58" "Input"])
+  ["Subpackages.html#index-AC_005fCONFIG_005fAUX_005fDIR" "Subpackages" 1])
  ("AC_CONFIG_COMMANDS" .
-  ["Configuration-Commands.html#index-AC_005fCONFIG_005fCOMMANDS-225" "Configuration Commands"])
+  ["Configuration-Commands.html#index-AC_005fCONFIG_005fCOMMANDS-225" "Configuration Commands" 0])
  ("AC_CONFIG_COMMANDS_POST" .
-  ["Configuration-Commands.html#index-AC_005fCONFIG_005fCOMMANDS_005fPOST-229" "Configuration Commands"])
+  ["Configuration-Commands.html#index-AC_005fCONFIG_005fCOMMANDS_005fPOST-229" "Configuration Commands" 0])
  ("AC_CONFIG_COMMANDS_PRE" .
-  ["Configuration-Commands.html#index-AC_005fCONFIG_005fCOMMANDS_005fPRE-227" "Configuration Commands"])
+  ["Configuration-Commands.html#index-AC_005fCONFIG_005fCOMMANDS_005fPRE-227" "Configuration Commands" 0])
  ("AC_CONFIG_FILES" .
-  ["Configuration-Files.html#index-AC_005fCONFIG_005fFILES-80" "Configuration Files"])
+  ["Requirements.html#index-AC_005fCONFIG_005fFILES" "Requirements" 1])
  ("AC_CONFIG_HEADERS" .
-  ["Configuration-Headers.html#index-AC_005fCONFIG_005fHEADERS-204" "Configuration Headers"])
+  ["Optional.html#index-AC_005fCONFIG_005fHEADERS" "Optional" 1])
  ("AC_CONFIG_ITEMS" .
-  ["Configuration-Actions.html#index-AC_005fCONFIG_005f_0040var_007bITEMS_007d-71" "Configuration Actions"])
+  ["Configuration-Actions.html#index-AC_005fCONFIG_005f_0040var_007bITEMS_007d-71" "Configuration Actions" 0])
  ("AC_CONFIG_LIBOBJ_DIR" .
-  ["Generic-Functions.html#index-AC_005fCONFIG_005fLIBOBJ_005fDIR-577" "Generic Functions"])
+  ["LIBOBJS.html#index-AC_005fCONFIG_005fLIBOBJ_005fDIR" "LIBOBJS" 1])
  ("AC_CONFIG_LINKS" .
-  ["Configuration-Links.html#index-AC_005fCONFIG_005fLINKS-233" "Configuration Links"])
+  ["Optional.html#index-AC_005fCONFIG_005fLINKS" "Optional" 1])
  ("AC_CONFIG_MACRO_DIR" .
-  ["Input.html#index-AC_005fCONFIG_005fMACRO_005fDIR-62" "Input"])
+  ["Input.html#index-AC_005fCONFIG_005fMACRO_005fDIR-62" "Input" 0])
  ("AC_CONFIG_SRCDIR" .
-  ["Input.html#index-AC_005fCONFIG_005fSRCDIR-56" "Input"])
+  ["Input.html#index-AC_005fCONFIG_005fSRCDIR-56" "Input" 0])
  ("AC_CONFIG_SUBDIRS" .
-  ["Subdirectories.html#index-AC_005fCONFIG_005fSUBDIRS-238" "Subdirectories"])
+  ["Subpackages.html#index-AC_005fCONFIG_005fSUBDIRS" "Subpackages" 1])
  ("AC_CONFIG_TESTDIR" .
-  ["Making-testsuite-Scripts.html#index-AC_005fCONFIG_005fTESTDIR-2313" "Making testsuite Scripts"])
+  ["Making-testsuite-Scripts.html#index-AC_005fCONFIG_005fTESTDIR-2313" "Making testsuite Scripts" 0])
  ("AC_CONST" .
-  ["Obsolete-Macros.html#index-AC_005fCONST-2008" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fCONST-2008" "Obsolete Macros" 0])
  ("AC_COPYRIGHT" .
-  ["Notices.html#index-AC_005fCOPYRIGHT-50" "Notices"])
+  ["Notices.html#index-AC_005fCOPYRIGHT-50" "Notices" 0])
  ("AC_CROSS_CHECK" .
-  ["Obsolete-Macros.html#index-AC_005fCROSS_005fCHECK-2010" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fCROSS_005fCHECK-2010" "Obsolete Macros" 0])
  ("AC_CYGWIN" .
-  ["Obsolete-Macros.html#index-AC_005fCYGWIN-2012" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fCYGWIN-2012" "Obsolete Macros" 0])
  ("AC_DATAROOTDIR_CHECKED" .
-  ["Changed-Directory-Variables.html#index-AC_005fDATAROOTDIR_005fCHECKED-196" "Changed Directory Variables"])
+  ["Changed-Directory-Variables.html#index-AC_005fDATAROOTDIR_005fCHECKED-196" "Changed Directory Variables" 0])
  ("AC_DECL_SYS_SIGLIST" .
-  ["Obsolete-Macros.html#index-AC_005fDECL_005fSYS_005fSIGLIST-2015" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fDECL_005fSYS_005fSIGLIST-2015" "Obsolete Macros" 0])
  ("AC_DECL_YYTEXT" .
-  ["Obsolete-Macros.html#index-AC_005fDECL_005fYYTEXT-2018" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fDECL_005fYYTEXT-2018" "Obsolete Macros" 0])
  ("AC_DEFINE" .
-  ["Defining-Symbols.html#index-AC_005fDEFINE-1196" "Defining Symbols"])
+  ["Defining-Symbols.html#index-AC_005fDEFINE-1196" "Defining Symbols" 0])
  ("AC_DEFINE_UNQUOTED" .
-  ["Defining-Symbols.html#index-AC_005fDEFINE_005fUNQUOTED-1199" "Defining Symbols"])
+  ["Defining-Symbols.html#index-AC_005fDEFINE_005fUNQUOTED-1199" "Defining Symbols" 0])
  ("AC_DEFUN" .
-  ["Macro-Definitions.html#index-AC_005fDEFUN-1648" "Macro Definitions"])
+  ["Extending-aclocal.html#index-AC_005fDEFUN" "Extending aclocal" 1])
  ("AC_DEFUN_ONCE" .
-  ["One_002dShot-Macros.html#index-AC_005fDEFUN_005fONCE-1669" "One-Shot Macros"])
+  ["One_002dShot-Macros.html#index-AC_005fDEFUN_005fONCE-1669" "One-Shot Macros" 0])
  ("AC_DIAGNOSE" .
-  ["Reporting-Messages.html#index-AC_005fDIAGNOSE-1652" "Reporting Messages"])
+  ["Reporting-Messages.html#index-AC_005fDIAGNOSE-1652" "Reporting Messages" 0])
  ("AC_DIR_HEADER" .
-  ["Obsolete-Macros.html#index-AC_005fDIR_005fHEADER-2020" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fDIR_005fHEADER-2020" "Obsolete Macros" 0])
  ("AC_DISABLE_OPTION_CHECKING" .
-  ["Option-Checking.html#index-AC_005fDISABLE_005fOPTION_005fCHECKING-1950" "Option Checking"])
+  ["Option-Checking.html#index-AC_005fDISABLE_005fOPTION_005fCHECKING-1950" "Option Checking" 0])
  ("AC_DYNIX_SEQ" .
-  ["Obsolete-Macros.html#index-AC_005fDYNIX_005fSEQ-2026" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fDYNIX_005fSEQ-2026" "Obsolete Macros" 0])
  ("AC_EGREP_CPP" .
-  ["Running-the-Preprocessor.html#index-AC_005fEGREP_005fCPP-1178" "Running the Preprocessor"])
+  ["Running-the-Preprocessor.html#index-AC_005fEGREP_005fCPP-1178" "Running the Preprocessor" 0])
  ("AC_EGREP_HEADER" .
-  ["Running-the-Preprocessor.html#index-AC_005fEGREP_005fHEADER-1176" "Running the Preprocessor"])
+  ["Running-the-Preprocessor.html#index-AC_005fEGREP_005fHEADER-1176" "Running the Preprocessor" 0])
  ("AC_EMXOS2" .
-  ["Obsolete-Macros.html#index-AC_005fEMXOS2-2031" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fEMXOS2-2031" "Obsolete Macros" 0])
  ("AC_ENABLE" .
-  ["Obsolete-Macros.html#index-AC_005fENABLE-2033" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fENABLE-2033" "Obsolete Macros" 0])
  ("AC_ERLANG_CHECK_LIB" .
-  ["Erlang-Libraries.html#index-AC_005fERLANG_005fCHECK_005fLIB-1138" "Erlang Libraries"])
+  ["Erlang-Libraries.html#index-AC_005fERLANG_005fCHECK_005fLIB-1138" "Erlang Libraries" 0])
  ("AC_ERLANG_NEED_ERL" .
-  ["Erlang-Compiler-and-Interpreter.html#index-AC_005fERLANG_005fNEED_005fERL-980" "Erlang Compiler and Interpreter"])
+  ["Erlang-Compiler-and-Interpreter.html#index-AC_005fERLANG_005fNEED_005fERL-980" "Erlang Compiler and Interpreter" 0])
  ("AC_ERLANG_NEED_ERLC" .
-  ["Erlang-Compiler-and-Interpreter.html#index-AC_005fERLANG_005fNEED_005fERLC-974" "Erlang Compiler and Interpreter"])
+  ["Erlang-Compiler-and-Interpreter.html#index-AC_005fERLANG_005fNEED_005fERLC-974" "Erlang Compiler and Interpreter" 0])
  ("AC_ERLANG_PATH_ERL" .
-  ["Erlang-Compiler-and-Interpreter.html#index-AC_005fERLANG_005fPATH_005fERL-976" "Erlang Compiler and Interpreter"])
+  ["Erlang-Compiler-and-Interpreter.html#index-AC_005fERLANG_005fPATH_005fERL-976" "Erlang Compiler and Interpreter" 0])
  ("AC_ERLANG_PATH_ERLC" .
-  ["Erlang-Compiler-and-Interpreter.html#index-AC_005fERLANG_005fPATH_005fERLC-968" "Erlang Compiler and Interpreter"])
+  ["Erlang-Compiler-and-Interpreter.html#index-AC_005fERLANG_005fPATH_005fERLC-968" "Erlang Compiler and Interpreter" 0])
  ("AC_ERLANG_SUBST_ERTS_VER" .
-  ["Erlang-Libraries.html#index-AC_005fERLANG_005fSUBST_005fERTS_005fVER-1129" "Erlang Libraries"])
+  ["Erlang-Libraries.html#index-AC_005fERLANG_005fSUBST_005fERTS_005fVER-1129" "Erlang Libraries" 0])
  ("AC_ERLANG_SUBST_INSTALL_LIB_DIR" .
-  ["Installation-Directory-Variables.html#index-AC_005fERLANG_005fSUBST_005fINSTALL_005fLIB_005fDIR-191" "Installation Directory Variables"])
+  ["Installation-Directory-Variables.html#index-AC_005fERLANG_005fSUBST_005fINSTALL_005fLIB_005fDIR-191" "Installation Directory Variables" 0])
  ("AC_ERLANG_SUBST_INSTALL_LIB_SUBDIR" .
-  ["Installation-Directory-Variables.html#index-AC_005fERLANG_005fSUBST_005fINSTALL_005fLIB_005fSUBDIR-194" "Installation Directory Variables"])
+  ["Installation-Directory-Variables.html#index-AC_005fERLANG_005fSUBST_005fINSTALL_005fLIB_005fSUBDIR-194" "Installation Directory Variables" 0])
  ("AC_ERLANG_SUBST_LIB_DIR" .
-  ["Erlang-Libraries.html#index-AC_005fERLANG_005fSUBST_005fLIB_005fDIR-1135" "Erlang Libraries"])
+  ["Erlang-Libraries.html#index-AC_005fERLANG_005fSUBST_005fLIB_005fDIR-1135" "Erlang Libraries" 0])
  ("AC_ERLANG_SUBST_ROOT_DIR" .
-  ["Erlang-Libraries.html#index-AC_005fERLANG_005fSUBST_005fROOT_005fDIR-1132" "Erlang Libraries"])
+  ["Erlang-Libraries.html#index-AC_005fERLANG_005fSUBST_005fROOT_005fDIR-1132" "Erlang Libraries" 0])
  ("AC_ERROR" .
-  ["Obsolete-Macros.html#index-AC_005fERROR-2035" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fERROR-2035" "Obsolete Macros" 0])
  ("AC_EXEEXT" .
-  ["Obsolete-Macros.html#index-AC_005fEXEEXT-2028" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fEXEEXT-2028" "Obsolete Macros" 0])
  ("AC_F77_DUMMY_MAIN" .
-  ["Fortran-Compiler.html#index-AC_005fF77_005fDUMMY_005fMAIN-1019" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fF77_005fDUMMY_005fMAIN-1019" "Fortran Compiler" 0])
  ("AC_F77_FUNC" .
-  ["Fortran-Compiler.html#index-AC_005fF77_005fFUNC-1045" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fF77_005fFUNC-1045" "Fortran Compiler" 0])
  ("AC_F77_IMPLICIT_NONE" .
-  ["Fortran-Compiler.html#index-AC_005fF77_005fIMPLICIT_005fNONE-1070" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fF77_005fIMPLICIT_005fNONE-1070" "Fortran Compiler" 0])
  ("AC_F77_LIBRARY_LDFLAGS" .
-  ["Fortran-Compiler.html#index-AC_005fF77_005fLIBRARY_005fLDFLAGS-1009" "Fortran Compiler"])
+  ["Optional.html#index-AC_005fF77_005fLIBRARY_005fLDFLAGS" "Optional" 1])
  ("AC_F77_MAIN" .
-  ["Fortran-Compiler.html#index-AC_005fF77_005fMAIN-1027" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fF77_005fMAIN-1027" "Fortran Compiler" 0])
  ("AC_F77_WRAPPERS" .
-  ["Fortran-Compiler.html#index-AC_005fF77_005fWRAPPERS-1035" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fF77_005fWRAPPERS-1035" "Fortran Compiler" 0])
  ("AC_FATAL" .
-  ["Reporting-Messages.html#index-AC_005fFATAL-1656" "Reporting Messages"])
+  ["Reporting-Messages.html#index-AC_005fFATAL-1656" "Reporting Messages" 0])
  ("AC_FC_CHECK_BOUNDS" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fCHECK_005fBOUNDS-1066" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fCHECK_005fBOUNDS-1066" "Fortran Compiler" 0])
  ("AC_FC_DUMMY_MAIN" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fDUMMY_005fMAIN-1021" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fDUMMY_005fMAIN-1021" "Fortran Compiler" 0])
  ("AC_FC_FIXEDFORM" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fFIXEDFORM-1060" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fFIXEDFORM-1060" "Fortran Compiler" 0])
  ("AC_FC_FREEFORM" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fFREEFORM-1057" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fFREEFORM-1057" "Fortran Compiler" 0])
  ("AC_FC_FUNC" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fFUNC-1046" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fFUNC-1046" "Fortran Compiler" 0])
  ("AC_FC_IMPLICIT_NONE" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fIMPLICIT_005fNONE-1071" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fIMPLICIT_005fNONE-1071" "Fortran Compiler" 0])
  ("AC_FC_LIBRARY_LDFLAGS" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fLIBRARY_005fLDFLAGS-1011" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fLIBRARY_005fLDFLAGS-1011" "Fortran Compiler" 0])
  ("AC_FC_LINE_LENGTH" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fLINE_005fLENGTH-1063" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fLINE_005fLENGTH-1063" "Fortran Compiler" 0])
  ("AC_FC_MAIN" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fMAIN-1029" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fMAIN-1029" "Fortran Compiler" 0])
  ("AC_FC_MODULE_EXTENSION" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fMODULE_005fEXTENSION-1075" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fMODULE_005fEXTENSION-1075" "Fortran Compiler" 0])
  ("AC_FC_MODULE_FLAG" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fMODULE_005fFLAG-1079" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fMODULE_005fFLAG-1079" "Fortran Compiler" 0])
  ("AC_FC_MODULE_OUTPUT_FLAG" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fMODULE_005fOUTPUT_005fFLAG-1084" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fMODULE_005fOUTPUT_005fFLAG-1084" "Fortran Compiler" 0])
  ("AC_FC_PP_DEFINE" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fPP_005fDEFINE-1054" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fPP_005fDEFINE-1054" "Fortran Compiler" 0])
  ("AC_FC_PP_SRCEXT" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fPP_005fSRCEXT-1050" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fPP_005fSRCEXT-1050" "Fortran Compiler" 0])
  ("AC_FC_SRCEXT" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fSRCEXT-1049" "Fortran Compiler"])
+  ["Optional.html#index-AC_005fFC_005fSRCEXT" "Optional" 1])
  ("AC_FC_WRAPPERS" .
-  ["Fortran-Compiler.html#index-AC_005fFC_005fWRAPPERS-1038" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fFC_005fWRAPPERS-1038" "Fortran Compiler" 0])
  ("AC_FIND_X" .
-  ["Obsolete-Macros.html#index-AC_005fFIND_005fX-2037" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fFIND_005fX-2037" "Obsolete Macros" 0])
  ("AC_FIND_XTRA" .
-  ["Obsolete-Macros.html#index-AC_005fFIND_005fXTRA-2039" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fFIND_005fXTRA-2039" "Obsolete Macros" 0])
  ("AC_FOREACH" .
-  ["Obsolete-Macros.html#index-AC_005fFOREACH-2041" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fFOREACH-2041" "Obsolete Macros" 0])
  ("AC_FUNC_ALLOCA" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fALLOCA-371" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fALLOCA-371" "Particular Functions" 0])
  ("AC_FUNC_CHECK" .
-  ["Obsolete-Macros.html#index-AC_005fFUNC_005fCHECK-2043" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fFUNC_005fCHECK-2043" "Obsolete Macros" 0])
  ("AC_FUNC_CHOWN" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fCHOWN-378" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fCHOWN-378" "Particular Functions" 0])
  ("AC_FUNC_CLOSEDIR_VOID" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fCLOSEDIR_005fVOID-383" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fCLOSEDIR_005fVOID-383" "Particular Functions" 0])
  ("AC_FUNC_ERROR_AT_LINE" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fERROR_005fAT_005fLINE-388" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fERROR_005fAT_005fLINE-388" "Particular Functions" 0])
  ("AC_FUNC_FNMATCH" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fFNMATCH-392" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fFNMATCH-392" "Particular Functions" 0])
  ("AC_FUNC_FNMATCH_GNU" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fFNMATCH_005fGNU-396" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fFNMATCH_005fGNU-396" "Particular Functions" 0])
  ("AC_FUNC_FORK" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fFORK-400" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fFORK-400" "Particular Functions" 0])
  ("AC_FUNC_FSEEKO" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fFSEEKO-409" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fFSEEKO-409" "Particular Functions" 0])
  ("AC_FUNC_GETGROUPS" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fGETGROUPS-415" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fGETGROUPS-415" "Particular Functions" 0])
  ("AC_FUNC_GETLOADAVG" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fGETLOADAVG-421" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fGETLOADAVG-421" "Particular Functions" 0])
  ("AC_FUNC_GETMNTENT" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fGETMNTENT-438" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fGETMNTENT-438" "Particular Functions" 0])
  ("AC_FUNC_GETPGRP" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fGETPGRP-443" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fGETPGRP-443" "Particular Functions" 0])
  ("AC_FUNC_LSTAT" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fLSTAT-504" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fLSTAT-504" "Particular Functions" 0])
  ("AC_FUNC_LSTAT_FOLLOWS_SLASHED_SYMLINK" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fLSTAT_005fFOLLOWS_005fSLASHED_005fSYMLINK-449" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fLSTAT_005fFOLLOWS_005fSLASHED_005fSYMLINK-449" "Particular Functions" 0])
  ("AC_FUNC_MALLOC" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fMALLOC-454" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fMALLOC-454" "Particular Functions" 0])
  ("AC_FUNC_MBRTOWC" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fMBRTOWC-460" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fMBRTOWC-460" "Particular Functions" 0])
  ("AC_FUNC_MEMCMP" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fMEMCMP-465" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fMEMCMP-465" "Particular Functions" 0])
  ("AC_FUNC_MKTIME" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fMKTIME-470" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fMKTIME-470" "Particular Functions" 0])
  ("AC_FUNC_MMAP" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fMMAP-475" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fMMAP-475" "Particular Functions" 0])
  ("AC_FUNC_OBSTACK" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fOBSTACK-480" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fOBSTACK-480" "Particular Functions" 0])
  ("AC_FUNC_REALLOC" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fREALLOC-485" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fREALLOC-485" "Particular Functions" 0])
  ("AC_FUNC_SELECT_ARGTYPES" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fSELECT_005fARGTYPES-491" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fSELECT_005fARGTYPES-491" "Particular Functions" 0])
  ("AC_FUNC_SETPGRP" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fSETPGRP-497" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fSETPGRP-497" "Particular Functions" 0])
  ("AC_FUNC_SETVBUF_REVERSED" .
-  ["Obsolete-Macros.html#index-AC_005fFUNC_005fSETVBUF_005fREVERSED-2045" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fFUNC_005fSETVBUF_005fREVERSED-2045" "Obsolete Macros" 0])
  ("AC_FUNC_STAT" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fSTAT-503" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fSTAT-503" "Particular Functions" 0])
  ("AC_FUNC_STRCOLL" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fSTRCOLL-512" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fSTRCOLL-512" "Particular Functions" 0])
  ("AC_FUNC_STRERROR_R" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fSTRERROR_005fR-517" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fSTRERROR_005fR-517" "Particular Functions" 0])
  ("AC_FUNC_STRFTIME" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fSTRFTIME-524" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fSTRFTIME-524" "Particular Functions" 0])
  ("AC_FUNC_STRNLEN" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fSTRNLEN-539" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fSTRNLEN-539" "Particular Functions" 0])
  ("AC_FUNC_STRTOD" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fSTRTOD-528" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fSTRTOD-528" "Particular Functions" 0])
  ("AC_FUNC_STRTOLD" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fSTRTOLD-534" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fSTRTOLD-534" "Particular Functions" 0])
  ("AC_FUNC_UTIME_NULL" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fUTIME_005fNULL-544" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fUTIME_005fNULL-544" "Particular Functions" 0])
  ("AC_FUNC_VPRINTF" .
-  ["Particular-Functions.html#index-AC_005fFUNC_005fVPRINTF-549" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fFUNC_005fVPRINTF-549" "Particular Functions" 0])
  ("AC_FUNC_WAIT3" .
-  ["Obsolete-Macros.html#index-AC_005fFUNC_005fWAIT3-2049" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fFUNC_005fWAIT3-2049" "Obsolete Macros" 0])
  ("AC_GCC_TRADITIONAL" .
-  ["Obsolete-Macros.html#index-AC_005fGCC_005fTRADITIONAL-2053" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fGCC_005fTRADITIONAL-2053" "Obsolete Macros" 0])
  ("AC_GETGROUPS_T" .
-  ["Obsolete-Macros.html#index-AC_005fGETGROUPS_005fT-2055" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fGETGROUPS_005fT-2055" "Obsolete Macros" 0])
  ("AC_GETLOADAVG" .
-  ["Obsolete-Macros.html#index-AC_005fGETLOADAVG-2057" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fGETLOADAVG-2057" "Obsolete Macros" 0])
  ("AC_GNU_SOURCE" .
-  ["Obsolete-Macros.html#index-AC_005fGNU_005fSOURCE-2059" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fGNU_005fSOURCE-2059" "Obsolete Macros" 0])
  ("AC_HAVE_FUNCS" .
-  ["Obsolete-Macros.html#index-AC_005fHAVE_005fFUNCS-2062" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fHAVE_005fFUNCS-2062" "Obsolete Macros" 0])
  ("AC_HAVE_HEADERS" .
-  ["Obsolete-Macros.html#index-AC_005fHAVE_005fHEADERS-2064" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fHAVE_005fHEADERS-2064" "Obsolete Macros" 0])
  ("AC_HAVE_LIBRARY" .
-  ["Obsolete-Macros.html#index-AC_005fHAVE_005fLIBRARY-2066" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fHAVE_005fLIBRARY-2066" "Obsolete Macros" 0])
  ("AC_HAVE_POUNDBANG" .
-  ["Obsolete-Macros.html#index-AC_005fHAVE_005fPOUNDBANG-2068" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fHAVE_005fPOUNDBANG-2068" "Obsolete Macros" 0])
  ("AC_HEADER_ASSERT" .
-  ["Particular-Headers.html#index-AC_005fHEADER_005fASSERT-603" "Particular Headers"])
+  ["Particular-Headers.html#index-AC_005fHEADER_005fASSERT-603" "Particular Headers" 0])
  ("AC_HEADER_CHECK" .
-  ["Obsolete-Macros.html#index-AC_005fHEADER_005fCHECK-2070" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fHEADER_005fCHECK-2070" "Obsolete Macros" 0])
  ("AC_HEADER_DIRENT" .
-  ["Particular-Headers.html#index-AC_005fHEADER_005fDIRENT-607" "Particular Headers"])
+  ["Particular-Headers.html#index-AC_005fHEADER_005fDIRENT-607" "Particular Headers" 0])
  ("AC_HEADER_EGREP" .
-  ["Obsolete-Macros.html#index-AC_005fHEADER_005fEGREP-2072" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fHEADER_005fEGREP-2072" "Obsolete Macros" 0])
  ("AC_HEADER_MAJOR" .
-  ["Particular-Headers.html#index-AC_005fHEADER_005fMAJOR-617" "Particular Headers"])
+  ["Particular-Headers.html#index-AC_005fHEADER_005fMAJOR-617" "Particular Headers" 0])
  ("AC_HEADER_RESOLV" .
-  ["Particular-Headers.html#index-AC_005fHEADER_005fRESOLV-623" "Particular Headers"])
+  ["Particular-Headers.html#index-AC_005fHEADER_005fRESOLV-623" "Particular Headers" 0])
  ("AC_HEADER_STAT" .
-  ["Particular-Headers.html#index-AC_005fHEADER_005fSTAT-627" "Particular Headers"])
+  ["Particular-Headers.html#index-AC_005fHEADER_005fSTAT-627" "Particular Headers" 0])
  ("AC_HEADER_STDBOOL" .
-  ["Particular-Headers.html#index-AC_005fHEADER_005fSTDBOOL-631" "Particular Headers"])
+  ["Particular-Headers.html#index-AC_005fHEADER_005fSTDBOOL-631" "Particular Headers" 0])
  ("AC_HEADER_STDC" .
-  ["Particular-Headers.html#index-AC_005fHEADER_005fSTDC-637" "Particular Headers"])
+  ["Particular-Headers.html#index-AC_005fHEADER_005fSTDC-637" "Particular Headers" 0])
  ("AC_HEADER_SYS_WAIT" .
-  ["Particular-Headers.html#index-AC_005fHEADER_005fSYS_005fWAIT-648" "Particular Headers"])
+  ["Particular-Headers.html#index-AC_005fHEADER_005fSYS_005fWAIT-648" "Particular Headers" 0])
  ("AC_HEADER_TIME" .
-  ["Particular-Headers.html#index-AC_005fHEADER_005fTIME-655" "Particular Headers"])
+  ["Particular-Headers.html#index-AC_005fHEADER_005fTIME-655" "Particular Headers" 0])
  ("AC_HEADER_TIOCGWINSZ" .
-  ["Particular-Headers.html#index-AC_005fHEADER_005fTIOCGWINSZ-661" "Particular Headers"])
+  ["Particular-Headers.html#index-AC_005fHEADER_005fTIOCGWINSZ-661" "Particular Headers" 0])
  ("AC_HELP_STRING" .
-  ["Obsolete-Macros.html#index-AC_005fHELP_005fSTRING-2074" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fHELP_005fSTRING-2074" "Obsolete Macros" 0])
  ("AC_INCLUDES_DEFAULT" .
-  ["Default-Includes.html#index-AC_005fINCLUDES_005fDEFAULT-251" "Default Includes"])
+  ["Default-Includes.html#index-AC_005fINCLUDES_005fDEFAULT-251" "Default Includes" 0])
  ("AC_INIT" .
-  ["Initializing-configure.html#index-AC_005fINIT-22" "Initializing configure"])
+  ["Public-Macros.html#index-AC_005fINIT" "Public Macros" 1])
  ("AC_INLINE" .
-  ["Obsolete-Macros.html#index-AC_005fINLINE-2078" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fINLINE-2078" "Obsolete Macros" 0])
  ("AC_INT_16_BITS" .
-  ["Obsolete-Macros.html#index-AC_005fINT_005f16_005fBITS-2080" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fINT_005f16_005fBITS-2080" "Obsolete Macros" 0])
  ("AC_IRIX_SUN" .
-  ["Obsolete-Macros.html#index-AC_005fIRIX_005fSUN-2083" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fIRIX_005fSUN-2083" "Obsolete Macros" 0])
  ("AC_ISC_POSIX" .
-  ["Obsolete-Macros.html#index-AC_005fISC_005fPOSIX-2085" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fISC_005fPOSIX-2085" "Obsolete Macros" 0])
  ("AC_LANG" .
-  ["Language-Choice.html#index-AC_005fLANG-1149" "Language Choice"])
+  ["Language-Choice.html#index-AC_005fLANG-1149" "Language Choice" 0])
  ("AC_LANG_ASSERT" .
-  ["Language-Choice.html#index-AC_005fLANG_005fASSERT-1158" "Language Choice"])
+  ["Language-Choice.html#index-AC_005fLANG_005fASSERT-1158" "Language Choice" 0])
  ("AC_LANG_C" .
-  ["Obsolete-Macros.html#index-AC_005fLANG_005fC-2088" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fLANG_005fC-2088" "Obsolete Macros" 0])
  ("AC_LANG_CALL" .
-  ["Generating-Sources.html#index-AC_005fLANG_005fCALL-1170" "Generating Sources"])
+  ["Generating-Sources.html#index-AC_005fLANG_005fCALL-1170" "Generating Sources" 0])
  ("AC_LANG_CONFTEST" .
-  ["Generating-Sources.html#index-AC_005fLANG_005fCONFTEST-1162" "Generating Sources"])
+  ["Generating-Sources.html#index-AC_005fLANG_005fCONFTEST-1162" "Generating Sources" 0])
  ("AC_LANG_CPLUSPLUS" .
-  ["Obsolete-Macros.html#index-AC_005fLANG_005fCPLUSPLUS-2090" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fLANG_005fCPLUSPLUS-2090" "Obsolete Macros" 0])
  ("AC_LANG_DEFINES_PROVIDED" .
-  ["Generating-Sources.html#index-AC_005fLANG_005fDEFINES_005fPROVIDED-1164" "Generating Sources"])
+  ["Generating-Sources.html#index-AC_005fLANG_005fDEFINES_005fPROVIDED-1164" "Generating Sources" 0])
  ("AC_LANG_FORTRAN77" .
-  ["Obsolete-Macros.html#index-AC_005fLANG_005fFORTRAN77-2092" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fLANG_005fFORTRAN77-2092" "Obsolete Macros" 0])
  ("AC_LANG_FUNC_LINK_TRY" .
-  ["Generating-Sources.html#index-AC_005fLANG_005fFUNC_005fLINK_005fTRY-1172" "Generating Sources"])
+  ["Generating-Sources.html#index-AC_005fLANG_005fFUNC_005fLINK_005fTRY-1172" "Generating Sources" 0])
  ("AC_LANG_POP" .
-  ["Language-Choice.html#index-AC_005fLANG_005fPOP-1156" "Language Choice"])
+  ["Language-Choice.html#index-AC_005fLANG_005fPOP-1156" "Language Choice" 0])
  ("AC_LANG_PROGRAM" .
-  ["Generating-Sources.html#index-AC_005fLANG_005fPROGRAM-1168" "Generating Sources"])
+  ["Generating-Sources.html#index-AC_005fLANG_005fPROGRAM-1168" "Generating Sources" 0])
  ("AC_LANG_PUSH" .
-  ["Language-Choice.html#index-AC_005fLANG_005fPUSH-1154" "Language Choice"])
+  ["Language-Choice.html#index-AC_005fLANG_005fPUSH-1154" "Language Choice" 0])
  ("AC_LANG_RESTORE" .
-  ["Obsolete-Macros.html#index-AC_005fLANG_005fRESTORE-2094" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fLANG_005fRESTORE-2094" "Obsolete Macros" 0])
  ("AC_LANG_SAVE" .
-  ["Obsolete-Macros.html#index-AC_005fLANG_005fSAVE-2096" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fLANG_005fSAVE-2096" "Obsolete Macros" 0])
  ("AC_LANG_SOURCE" .
-  ["Generating-Sources.html#index-AC_005fLANG_005fSOURCE-1166" "Generating Sources"])
+  ["Generating-Sources.html#index-AC_005fLANG_005fSOURCE-1166" "Generating Sources" 0])
  ("AC_LANG_WERROR" .
-  ["Generic-Compiler-Characteristics.html#index-AC_005fLANG_005fWERROR-849" "Generic Compiler Characteristics"])
+  ["Generic-Compiler-Characteristics.html#index-AC_005fLANG_005fWERROR-849" "Generic Compiler Characteristics" 0])
  ("AC_LIBOBJ" .
-  ["Generic-Functions.html#index-AC_005fLIBOBJ-569" "Generic Functions"])
+  ["LIBOBJS.html#index-AC_005fLIBOBJ-1" "LIBOBJS" 1])
  ("AC_LIBSOURCE" .
-  ["Generic-Functions.html#index-AC_005fLIBSOURCE-573" "Generic Functions"])
+  ["LIBOBJS.html#index-AC_005fLIBSOURCE" "LIBOBJS" 1])
  ("AC_LIBSOURCES" .
-  ["Generic-Functions.html#index-AC_005fLIBSOURCES-575" "Generic Functions"])
+  ["Optional.html#index-AC_005fLIBSOURCES" "Optional" 1])
  ("AC_LINK_FILES" .
-  ["Obsolete-Macros.html#index-AC_005fLINK_005fFILES-2098" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fLINK_005fFILES-2098" "Obsolete Macros" 0])
  ("AC_LINK_IFELSE" .
-  ["Running-the-Linker.html#index-AC_005fLINK_005fIFELSE-1183" "Running the Linker"])
+  ["Running-the-Linker.html#index-AC_005fLINK_005fIFELSE-1183" "Running the Linker" 0])
  ("AC_LN_S" .
-  ["Obsolete-Macros.html#index-AC_005fLN_005fS-2100" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fLN_005fS-2100" "Obsolete Macros" 0])
  ("AC_LONG_64_BITS" .
-  ["Obsolete-Macros.html#index-AC_005fLONG_005f64_005fBITS-2102" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fLONG_005f64_005fBITS-2102" "Obsolete Macros" 0])
  ("AC_LONG_DOUBLE" .
-  ["Obsolete-Macros.html#index-AC_005fLONG_005fDOUBLE-2105" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fLONG_005fDOUBLE-2105" "Obsolete Macros" 0])
  ("AC_LONG_FILE_NAMES" .
-  ["Obsolete-Macros.html#index-AC_005fLONG_005fFILE_005fNAMES-2107" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fLONG_005fFILE_005fNAMES-2107" "Obsolete Macros" 0])
  ("AC_MAJOR_HEADER" .
-  ["Obsolete-Macros.html#index-AC_005fMAJOR_005fHEADER-2109" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fMAJOR_005fHEADER-2109" "Obsolete Macros" 0])
  ("AC_MEMORY_H" .
-  ["Obsolete-Macros.html#index-AC_005fMEMORY_005fH-2111" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fMEMORY_005fH-2111" "Obsolete Macros" 0])
  ("AC_MINGW32" .
-  ["Obsolete-Macros.html#index-AC_005fMINGW32-2114" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fMINGW32-2114" "Obsolete Macros" 0])
  ("AC_MINIX" .
-  ["Obsolete-Macros.html#index-AC_005fMINIX-2116" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fMINIX-2116" "Obsolete Macros" 0])
  ("AC_MINUS_C_MINUS_O" .
-  ["Obsolete-Macros.html#index-AC_005fMINUS_005fC_005fMINUS_005fO-2121" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fMINUS_005fC_005fMINUS_005fO-2121" "Obsolete Macros" 0])
  ("AC_MMAP" .
-  ["Obsolete-Macros.html#index-AC_005fMMAP-2123" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fMMAP-2123" "Obsolete Macros" 0])
  ("AC_MODE_T" .
-  ["Obsolete-Macros.html#index-AC_005fMODE_005fT-2125" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fMODE_005fT-2125" "Obsolete Macros" 0])
  ("AC_MSG_CHECKING" .
-  ["Printing-Messages.html#index-AC_005fMSG_005fCHECKING-1223" "Printing Messages"])
+  ["Printing-Messages.html#index-AC_005fMSG_005fCHECKING-1223" "Printing Messages" 0])
  ("AC_MSG_ERROR" .
-  ["Printing-Messages.html#index-AC_005fMSG_005fERROR-1229" "Printing Messages"])
+  ["Printing-Messages.html#index-AC_005fMSG_005fERROR-1229" "Printing Messages" 0])
  ("AC_MSG_FAILURE" .
-  ["Printing-Messages.html#index-AC_005fMSG_005fFAILURE-1231" "Printing Messages"])
+  ["Printing-Messages.html#index-AC_005fMSG_005fFAILURE-1231" "Printing Messages" 0])
  ("AC_MSG_NOTICE" .
-  ["Printing-Messages.html#index-AC_005fMSG_005fNOTICE-1227" "Printing Messages"])
+  ["Printing-Messages.html#index-AC_005fMSG_005fNOTICE-1227" "Printing Messages" 0])
  ("AC_MSG_RESULT" .
-  ["Printing-Messages.html#index-AC_005fMSG_005fRESULT-1225" "Printing Messages"])
+  ["Printing-Messages.html#index-AC_005fMSG_005fRESULT-1225" "Printing Messages" 0])
  ("AC_MSG_WARN" .
-  ["Printing-Messages.html#index-AC_005fMSG_005fWARN-1233" "Printing Messages"])
+  ["Printing-Messages.html#index-AC_005fMSG_005fWARN-1233" "Printing Messages" 0])
  ("AC_OBJEXT" .
-  ["Obsolete-Macros.html#index-AC_005fOBJEXT-2127" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fOBJEXT-2127" "Obsolete Macros" 0])
  ("AC_OBSOLETE" .
-  ["Obsolete-Macros.html#index-AC_005fOBSOLETE-2130" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fOBSOLETE-2130" "Obsolete Macros" 0])
  ("AC_OFF_T" .
-  ["Obsolete-Macros.html#index-AC_005fOFF_005fT-2132" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fOFF_005fT-2132" "Obsolete Macros" 0])
  ("AC_OPENMP" .
-  ["Generic-Compiler-Characteristics.html#index-AC_005fOPENMP-851" "Generic Compiler Characteristics"])
+  ["Generic-Compiler-Characteristics.html#index-AC_005fOPENMP-851" "Generic Compiler Characteristics" 0])
  ("AC_OUTPUT" .
-  ["Output.html#index-AC_005fOUTPUT-65" "Output"])
+  ["Requirements.html#index-AC_005fOUTPUT" "Requirements" 1])
  ("AC_OUTPUT_COMMANDS" .
-  ["Obsolete-Macros.html#index-AC_005fOUTPUT_005fCOMMANDS-2136" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fOUTPUT_005fCOMMANDS-2136" "Obsolete Macros" 0])
  ("AC_PACKAGE_BUGREPORT" .
-  ["Initializing-configure.html#index-AC_005fPACKAGE_005fBUGREPORT-35" "Initializing configure"])
+  ["Initializing-configure.html#index-AC_005fPACKAGE_005fBUGREPORT-35" "Initializing configure" 0])
  ("AC_PACKAGE_NAME" .
-  ["Initializing-configure.html#index-AC_005fPACKAGE_005fNAME-23" "Initializing configure"])
+  ["Initializing-configure.html#index-AC_005fPACKAGE_005fNAME-23" "Initializing configure" 0])
  ("AC_PACKAGE_STRING" .
-  ["Initializing-configure.html#index-AC_005fPACKAGE_005fSTRING-32" "Initializing configure"])
+  ["Initializing-configure.html#index-AC_005fPACKAGE_005fSTRING-32" "Initializing configure" 0])
  ("AC_PACKAGE_TARNAME" .
-  ["Initializing-configure.html#index-AC_005fPACKAGE_005fTARNAME-26" "Initializing configure"])
+  ["Initializing-configure.html#index-AC_005fPACKAGE_005fTARNAME-26" "Initializing configure" 0])
  ("AC_PACKAGE_URL" .
-  ["Initializing-configure.html#index-AC_005fPACKAGE_005fURL-38" "Initializing configure"])
+  ["Initializing-configure.html#index-AC_005fPACKAGE_005fURL-38" "Initializing configure" 0])
  ("AC_PACKAGE_VERSION" .
-  ["Initializing-configure.html#index-AC_005fPACKAGE_005fVERSION-29" "Initializing configure"])
+  ["Initializing-configure.html#index-AC_005fPACKAGE_005fVERSION-29" "Initializing configure" 0])
  ("AC_PATH_PROG" .
-  ["Generic-Programs.html#index-AC_005fPATH_005fPROG-318" "Generic Programs"])
+  ["Generic-Programs.html#index-AC_005fPATH_005fPROG-318" "Generic Programs" 0])
  ("AC_PATH_PROGS" .
-  ["Generic-Programs.html#index-AC_005fPATH_005fPROGS-321" "Generic Programs"])
+  ["Generic-Programs.html#index-AC_005fPATH_005fPROGS-321" "Generic Programs" 0])
  ("AC_PATH_PROGS_FEATURE_CHECK" .
-  ["Generic-Programs.html#index-AC_005fPATH_005fPROGS_005fFEATURE_005fCHECK-324" "Generic Programs"])
+  ["Generic-Programs.html#index-AC_005fPATH_005fPROGS_005fFEATURE_005fCHECK-324" "Generic Programs" 0])
  ("AC_PATH_TARGET_TOOL" .
-  ["Generic-Programs.html#index-AC_005fPATH_005fTARGET_005fTOOL-329" "Generic Programs"])
+  ["Generic-Programs.html#index-AC_005fPATH_005fTARGET_005fTOOL-329" "Generic Programs" 0])
  ("AC_PATH_TOOL" .
-  ["Generic-Programs.html#index-AC_005fPATH_005fTOOL-331" "Generic Programs"])
+  ["Generic-Programs.html#index-AC_005fPATH_005fTOOL-331" "Generic Programs" 0])
  ("AC_PATH_X" .
-  ["System-Services.html#index-AC_005fPATH_005fX-1090" "System Services"])
+  ["System-Services.html#index-AC_005fPATH_005fX-1090" "System Services" 0])
  ("AC_PATH_XTRA" .
-  ["System-Services.html#index-AC_005fPATH_005fXTRA-1094" "System Services"])
+  ["System-Services.html#index-AC_005fPATH_005fXTRA-1094" "System Services" 0])
  ("AC_PID_T" .
-  ["Obsolete-Macros.html#index-AC_005fPID_005fT-2138" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fPID_005fT-2138" "Obsolete Macros" 0])
  ("AC_PREFIX" .
-  ["Obsolete-Macros.html#index-AC_005fPREFIX-2140" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fPREFIX-2140" "Obsolete Macros" 0])
  ("AC_PREFIX_DEFAULT" .
-  ["Default-Prefix.html#index-AC_005fPREFIX_005fDEFAULT-243" "Default Prefix"])
+  ["Default-Prefix.html#index-AC_005fPREFIX_005fDEFAULT-243" "Default Prefix" 0])
  ("AC_PREFIX_PROGRAM" .
-  ["Default-Prefix.html#index-AC_005fPREFIX_005fPROGRAM-245" "Default Prefix"])
+  ["Default-Prefix.html#index-AC_005fPREFIX_005fPROGRAM-245" "Default Prefix" 0])
  ("AC_PREPROC_IFELSE" .
-  ["Running-the-Preprocessor.html#index-AC_005fPREPROC_005fIFELSE-1174" "Running the Preprocessor"])
+  ["Running-the-Preprocessor.html#index-AC_005fPREPROC_005fIFELSE-1174" "Running the Preprocessor" 0])
  ("AC_PREREQ" .
-  ["Versioning.html#index-AC_005fPREREQ-44" "Versioning"])
+  ["Extending-aclocal.html#index-AC_005fPREREQ" "Extending aclocal" 1])
  ("AC_PRESERVE_HELP_ORDER" .
-  ["Help-Formatting.html#index-AC_005fPRESERVE_005fHELP_005fORDER-1937" "Help Formatting"])
+  ["Help-Formatting.html#index-AC_005fPRESERVE_005fHELP_005fORDER-1937" "Help Formatting" 0])
  ("AC_PROG_AWK" .
-  ["Particular-Programs.html#index-AC_005fPROG_005fAWK-254" "Particular Programs"])
+  ["Particular-Programs.html#index-AC_005fPROG_005fAWK-254" "Particular Programs" 0])
  ("AC_PROG_CC" .
-  ["C-Compiler.html#index-AC_005fPROG_005fCC-862" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fPROG_005fCC-862" "C Compiler" 0])
  ("AC_PROG_CC_C89" .
-  ["C-Compiler.html#index-AC_005fPROG_005fCC_005fC89-883" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fPROG_005fCC_005fC89-883" "C Compiler" 0])
  ("AC_PROG_CC_C99" .
-  ["C-Compiler.html#index-AC_005fPROG_005fCC_005fC99-886" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fPROG_005fCC_005fC99-886" "C Compiler" 0])
  ("AC_PROG_CC_C_O" .
-  ["C-Compiler.html#index-AC_005fPROG_005fCC_005fC_005fO-869" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fPROG_005fCC_005fC_005fO-869" "C Compiler" 0])
  ("AC_PROG_CC_STDC" .
-  ["C-Compiler.html#index-AC_005fPROG_005fCC_005fSTDC-880" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fPROG_005fCC_005fSTDC-880" "C Compiler" 0])
  ("AC_PROG_CPP" .
-  ["C-Compiler.html#index-AC_005fPROG_005fCPP-873" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fPROG_005fCPP-873" "C Compiler" 0])
  ("AC_PROG_CPP_WERROR" .
-  ["C-Compiler.html#index-AC_005fPROG_005fCPP_005fWERROR-877" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fPROG_005fCPP_005fWERROR-877" "C Compiler" 0])
  ("AC_PROG_CXX" .
-  ["C_002b_002b-Compiler.html#index-AC_005fPROG_005fCXX-934" "C++ Compiler"])
+  ["Optional.html#index-AC_005fPROG_005fCXX" "Optional" 1])
  ("AC_PROG_CXX_C_O" .
-  ["C_002b_002b-Compiler.html#index-AC_005fPROG_005fCXX_005fC_005fO-944" "C++ Compiler"])
+  ["C_002b_002b-Compiler.html#index-AC_005fPROG_005fCXX_005fC_005fO-944" "C++ Compiler" 0])
  ("AC_PROG_CXXCPP" .
-  ["C_002b_002b-Compiler.html#index-AC_005fPROG_005fCXXCPP-940" "C++ Compiler"])
+  ["C_002b_002b-Compiler.html#index-AC_005fPROG_005fCXXCPP-940" "C++ Compiler" 0])
  ("AC_PROG_EGREP" .
-  ["Particular-Programs.html#index-AC_005fPROG_005fEGREP-262" "Particular Programs"])
+  ["Particular-Programs.html#index-AC_005fPROG_005fEGREP-262" "Particular Programs" 0])
  ("AC_PROG_F77" .
-  ["Fortran-Compiler.html#index-AC_005fPROG_005fF77-984" "Fortran Compiler"])
+  ["Optional.html#index-AC_005fPROG_005fF77" "Optional" 1])
  ("AC_PROG_F77_C_O" .
-  ["Fortran-Compiler.html#index-AC_005fPROG_005fF77_005fC_005fO-1001" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fPROG_005fF77_005fC_005fO-1001" "Fortran Compiler" 0])
  ("AC_PROG_FC" .
-  ["Fortran-Compiler.html#index-AC_005fPROG_005fFC-992" "Fortran Compiler"])
+  ["Optional.html#index-AC_005fPROG_005fFC" "Optional" 1])
  ("AC_PROG_FC_C_O" .
-  ["Fortran-Compiler.html#index-AC_005fPROG_005fFC_005fC_005fO-1002" "Fortran Compiler"])
+  ["Fortran-Compiler.html#index-AC_005fPROG_005fFC_005fC_005fO-1002" "Fortran Compiler" 0])
  ("AC_PROG_FGREP" .
-  ["Particular-Programs.html#index-AC_005fPROG_005fFGREP-266" "Particular Programs"])
+  ["Particular-Programs.html#index-AC_005fPROG_005fFGREP-266" "Particular Programs" 0])
  ("AC_PROG_GCC_TRADITIONAL" .
-  ["C-Compiler.html#index-AC_005fPROG_005fGCC_005fTRADITIONAL-931" "C Compiler"])
+  ["C-Compiler.html#index-AC_005fPROG_005fGCC_005fTRADITIONAL-931" "C Compiler" 0])
  ("AC_PROG_GREP" .
-  ["Particular-Programs.html#index-AC_005fPROG_005fGREP-258" "Particular Programs"])
+  ["Particular-Programs.html#index-AC_005fPROG_005fGREP-258" "Particular Programs" 0])
  ("AC_PROG_INSTALL" .
-  ["Particular-Programs.html#index-AC_005fPROG_005fINSTALL-270" "Particular Programs"])
+  ["Particular-Programs.html#index-AC_005fPROG_005fINSTALL-270" "Particular Programs" 0])
  ("AC_PROG_LEX" .
-  ["Particular-Programs.html#index-AC_005fPROG_005fLEX-281" "Particular Programs"])
+  ["Optional.html#index-AC_005fPROG_005fLEX-1" "Optional" 1])
  ("AC_PROG_LN_S" .
-  ["Particular-Programs.html#index-AC_005fPROG_005fLN_005fS-288" "Particular Programs"])
+  ["Particular-Programs.html#index-AC_005fPROG_005fLN_005fS-288" "Particular Programs" 0])
  ("AC_PROG_MAKE_SET" .
-  ["Output.html#index-AC_005fPROG_005fMAKE_005fSET-68" "Output"])
+  ["Output.html#index-AC_005fPROG_005fMAKE_005fSET-68" "Output" 0])
  ("AC_PROG_MKDIR_P" .
-  ["Particular-Programs.html#index-AC_005fPROG_005fMKDIR_005fP-277" "Particular Programs"])
+  ["Particular-Programs.html#index-AC_005fPROG_005fMKDIR_005fP-277" "Particular Programs" 0])
  ("AC_PROG_OBJC" .
-  ["Objective-C-Compiler.html#index-AC_005fPROG_005fOBJC-947" "Objective C Compiler"])
+  ["Optional.html#index-AC_005fPROG_005fOBJC" "Optional" 1])
  ("AC_PROG_OBJCPP" .
-  ["Objective-C-Compiler.html#index-AC_005fPROG_005fOBJCPP-953" "Objective C Compiler"])
+  ["Objective-C-Compiler.html#index-AC_005fPROG_005fOBJCPP-953" "Objective C Compiler" 0])
  ("AC_PROG_OBJCXX" .
-  ["Objective-C_002b_002b-Compiler.html#index-AC_005fPROG_005fOBJCXX-957" "Objective C++ Compiler"])
+  ["Optional.html#index-AC_005fPROG_005fOBJCXX" "Optional" 1])
  ("AC_PROG_OBJCXXCPP" .
-  ["Objective-C_002b_002b-Compiler.html#index-AC_005fPROG_005fOBJCXXCPP-963" "Objective C++ Compiler"])
+  ["Objective-C_002b_002b-Compiler.html#index-AC_005fPROG_005fOBJCXXCPP-963" "Objective C++ Compiler" 0])
  ("AC_PROG_RANLIB" .
-  ["Particular-Programs.html#index-AC_005fPROG_005fRANLIB-291" "Particular Programs"])
+  ["Optional.html#index-AC_005fPROG_005fRANLIB" "Optional" 1])
  ("AC_PROG_SED" .
-  ["Particular-Programs.html#index-AC_005fPROG_005fSED-294" "Particular Programs"])
+  ["Particular-Programs.html#index-AC_005fPROG_005fSED-294" "Particular Programs" 0])
  ("AC_PROG_YACC" .
-  ["Particular-Programs.html#index-AC_005fPROG_005fYACC-298" "Particular Programs"])
+  ["Optional.html#index-AC_005fPROG_005fYACC" "Optional" 1])
  ("AC_PROGRAM_CHECK" .
-  ["Obsolete-Macros.html#index-AC_005fPROGRAM_005fCHECK-2146" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fPROGRAM_005fCHECK-2146" "Obsolete Macros" 0])
  ("AC_PROGRAM_EGREP" .
-  ["Obsolete-Macros.html#index-AC_005fPROGRAM_005fEGREP-2148" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fPROGRAM_005fEGREP-2148" "Obsolete Macros" 0])
  ("AC_PROGRAM_PATH" .
-  ["Obsolete-Macros.html#index-AC_005fPROGRAM_005fPATH-2150" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fPROGRAM_005fPATH-2150" "Obsolete Macros" 0])
  ("AC_PROGRAMS_CHECK" .
-  ["Obsolete-Macros.html#index-AC_005fPROGRAMS_005fCHECK-2142" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fPROGRAMS_005fCHECK-2142" "Obsolete Macros" 0])
  ("AC_PROGRAMS_PATH" .
-  ["Obsolete-Macros.html#index-AC_005fPROGRAMS_005fPATH-2144" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fPROGRAMS_005fPATH-2144" "Obsolete Macros" 0])
  ("AC_REMOTE_TAPE" .
-  ["Obsolete-Macros.html#index-AC_005fREMOTE_005fTAPE-2152" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fREMOTE_005fTAPE-2152" "Obsolete Macros" 0])
  ("AC_REPLACE_FNMATCH" .
-  ["Particular-Functions.html#index-AC_005fREPLACE_005fFNMATCH-555" "Particular Functions"])
+  ["Particular-Functions.html#index-AC_005fREPLACE_005fFNMATCH-555" "Particular Functions" 0])
  ("AC_REPLACE_FUNCS" .
-  ["Generic-Functions.html#index-AC_005fREPLACE_005fFUNCS-579" "Generic Functions"])
+  ["Generic-Functions.html#index-AC_005fREPLACE_005fFUNCS-579" "Generic Functions" 0])
  ("AC_REQUIRE" .
-  ["Prerequisite-Macros.html#index-AC_005fREQUIRE-1661" "Prerequisite Macros"])
+  ["Prerequisite-Macros.html#index-AC_005fREQUIRE-1661" "Prerequisite Macros" 0])
  ("AC_REQUIRE_AUX_FILE" .
-  ["Input.html#index-AC_005fREQUIRE_005fAUX_005fFILE-60" "Input"])
+  ["Optional.html#index-AC_005fREQUIRE_005fAUX_005fFILE" "Optional" 1])
  ("AC_REQUIRE_CPP" .
-  ["Language-Choice.html#index-AC_005fREQUIRE_005fCPP-1160" "Language Choice"])
+  ["Language-Choice.html#index-AC_005fREQUIRE_005fCPP-1160" "Language Choice" 0])
  ("AC_RESTARTABLE_SYSCALLS" .
-  ["Obsolete-Macros.html#index-AC_005fRESTARTABLE_005fSYSCALLS-2154" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fRESTARTABLE_005fSYSCALLS-2154" "Obsolete Macros" 0])
  ("AC_RETSIGTYPE" .
-  ["Obsolete-Macros.html#index-AC_005fRETSIGTYPE-2156" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fRETSIGTYPE-2156" "Obsolete Macros" 0])
  ("AC_REVISION" .
-  ["Notices.html#index-AC_005fREVISION-53" "Notices"])
+  ["Notices.html#index-AC_005fREVISION-53" "Notices" 0])
  ("AC_RSH" .
-  ["Obsolete-Macros.html#index-AC_005fRSH-2158" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fRSH-2158" "Obsolete Macros" 0])
  ("AC_RUN_IFELSE" .
-  ["Runtime.html#index-AC_005fRUN_005fIFELSE-1185" "Runtime"])
+  ["Runtime.html#index-AC_005fRUN_005fIFELSE-1185" "Runtime" 0])
  ("AC_SCO_INTL" .
-  ["Obsolete-Macros.html#index-AC_005fSCO_005fINTL-2160" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fSCO_005fINTL-2160" "Obsolete Macros" 0])
  ("AC_SEARCH_LIBS" .
-  ["Libraries.html#index-AC_005fSEARCH_005fLIBS-344" "Libraries"])
+  ["Libraries.html#index-AC_005fSEARCH_005fLIBS-344" "Libraries" 0])
  ("AC_SET_MAKE" .
-  ["Obsolete-Macros.html#index-AC_005fSET_005fMAKE-2165" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fSET_005fMAKE-2165" "Obsolete Macros" 0])
  ("AC_SETVBUF_REVERSED" .
-  ["Obsolete-Macros.html#index-AC_005fSETVBUF_005fREVERSED-2163" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fSETVBUF_005fREVERSED-2163" "Obsolete Macros" 0])
  ("AC_SIZE_T" .
-  ["Obsolete-Macros.html#index-AC_005fSIZE_005fT-2169" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fSIZE_005fT-2169" "Obsolete Macros" 0])
  ("AC_SIZEOF_TYPE" .
-  ["Obsolete-Macros.html#index-AC_005fSIZEOF_005fTYPE-2167" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fSIZEOF_005fTYPE-2167" "Obsolete Macros" 0])
  ("AC_ST_BLKSIZE" .
-  ["Obsolete-Macros.html#index-AC_005fST_005fBLKSIZE-2185" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fST_005fBLKSIZE-2185" "Obsolete Macros" 0])
  ("AC_ST_BLOCKS" .
-  ["Obsolete-Macros.html#index-AC_005fST_005fBLOCKS-2187" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fST_005fBLOCKS-2187" "Obsolete Macros" 0])
  ("AC_ST_RDEV" .
-  ["Obsolete-Macros.html#index-AC_005fST_005fRDEV-2189" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fST_005fRDEV-2189" "Obsolete Macros" 0])
  ("AC_STAT_MACROS_BROKEN" .
-  ["Obsolete-Macros.html#index-AC_005fSTAT_005fMACROS_005fBROKEN-2171" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fSTAT_005fMACROS_005fBROKEN-2171" "Obsolete Macros" 0])
  ("AC_STDC_HEADERS" .
-  ["Obsolete-Macros.html#index-AC_005fSTDC_005fHEADERS-2173" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fSTDC_005fHEADERS-2173" "Obsolete Macros" 0])
  ("AC_STRCOLL" .
-  ["Obsolete-Macros.html#index-AC_005fSTRCOLL-2175" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fSTRCOLL-2175" "Obsolete Macros" 0])
  ("AC_STRUCT_DIRENT_D_INO" .
-  ["Particular-Structures.html#index-AC_005fSTRUCT_005fDIRENT_005fD_005fINO-688" "Particular Structures"])
+  ["Particular-Structures.html#index-AC_005fSTRUCT_005fDIRENT_005fD_005fINO-688" "Particular Structures" 0])
  ("AC_STRUCT_DIRENT_D_TYPE" .
-  ["Particular-Structures.html#index-AC_005fSTRUCT_005fDIRENT_005fD_005fTYPE-691" "Particular Structures"])
+  ["Particular-Structures.html#index-AC_005fSTRUCT_005fDIRENT_005fD_005fTYPE-691" "Particular Structures" 0])
  ("AC_STRUCT_ST_BLKSIZE" .
-  ["Obsolete-Macros.html#index-AC_005fSTRUCT_005fST_005fBLKSIZE-2177" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fSTRUCT_005fST_005fBLKSIZE-2177" "Obsolete Macros" 0])
  ("AC_STRUCT_ST_BLOCKS" .
-  ["Particular-Structures.html#index-AC_005fSTRUCT_005fST_005fBLOCKS-694" "Particular Structures"])
+  ["Particular-Structures.html#index-AC_005fSTRUCT_005fST_005fBLOCKS-694" "Particular Structures" 0])
  ("AC_STRUCT_ST_RDEV" .
-  ["Obsolete-Macros.html#index-AC_005fSTRUCT_005fST_005fRDEV-2181" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fSTRUCT_005fST_005fRDEV-2181" "Obsolete Macros" 0])
  ("AC_STRUCT_TIMEZONE" .
-  ["Particular-Structures.html#index-AC_005fSTRUCT_005fTIMEZONE-705" "Particular Structures"])
+  ["Particular-Structures.html#index-AC_005fSTRUCT_005fTIMEZONE-705" "Particular Structures" 0])
  ("AC_STRUCT_TM" .
-  ["Particular-Structures.html#index-AC_005fSTRUCT_005fTM-700" "Particular Structures"])
+  ["Particular-Structures.html#index-AC_005fSTRUCT_005fTM-700" "Particular Structures" 0])
  ("AC_SUBST" .
-  ["Setting-Output-Variables.html#index-AC_005fSUBST-1203" "Setting Output Variables"])
+  ["Optional.html#index-AC_005fSUBST" "Optional" 1])
  ("AC_SUBST_FILE" .
-  ["Setting-Output-Variables.html#index-AC_005fSUBST_005fFILE-1205" "Setting Output Variables"])
+  ["Setting-Output-Variables.html#index-AC_005fSUBST_005fFILE-1205" "Setting Output Variables" 0])
  ("AC_SYS_INTERPRETER" .
-  ["System-Services.html#index-AC_005fSYS_005fINTERPRETER-1101" "System Services"])
+  ["System-Services.html#index-AC_005fSYS_005fINTERPRETER-1101" "System Services" 0])
  ("AC_SYS_LARGEFILE" .
-  ["System-Services.html#index-AC_005fSYS_005fLARGEFILE-1103" "System Services"])
+  ["System-Services.html#index-AC_005fSYS_005fLARGEFILE-1103" "System Services" 0])
  ("AC_SYS_LONG_FILE_NAMES" .
-  ["System-Services.html#index-AC_005fSYS_005fLONG_005fFILE_005fNAMES-1110" "System Services"])
+  ["System-Services.html#index-AC_005fSYS_005fLONG_005fFILE_005fNAMES-1110" "System Services" 0])
  ("AC_SYS_POSIX_TERMIOS" .
-  ["System-Services.html#index-AC_005fSYS_005fPOSIX_005fTERMIOS-1113" "System Services"])
+  ["System-Services.html#index-AC_005fSYS_005fPOSIX_005fTERMIOS-1113" "System Services" 0])
  ("AC_SYS_RESTARTABLE_SYSCALLS" .
-  ["Obsolete-Macros.html#index-AC_005fSYS_005fRESTARTABLE_005fSYSCALLS-2191" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fSYS_005fRESTARTABLE_005fSYSCALLS-2191" "Obsolete Macros" 0])
  ("AC_SYS_SIGLIST_DECLARED" .
-  ["Obsolete-Macros.html#index-AC_005fSYS_005fSIGLIST_005fDECLARED-2194" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fSYS_005fSIGLIST_005fDECLARED-2194" "Obsolete Macros" 0])
  ("AC_TEST_CPP" .
-  ["Obsolete-Macros.html#index-AC_005fTEST_005fCPP-2196" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fTEST_005fCPP-2196" "Obsolete Macros" 0])
  ("AC_TEST_PROGRAM" .
-  ["Obsolete-Macros.html#index-AC_005fTEST_005fPROGRAM-2198" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fTEST_005fPROGRAM-2198" "Obsolete Macros" 0])
  ("AC_TIME_WITH_SYS_TIME" .
-  ["Obsolete-Macros.html#index-AC_005fTIME_005fWITH_005fSYS_005fTIME-2202" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fTIME_005fWITH_005fSYS_005fTIME-2202" "Obsolete Macros" 0])
  ("AC_TIMEZONE" .
-  ["Obsolete-Macros.html#index-AC_005fTIMEZONE-2200" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fTIMEZONE-2200" "Obsolete Macros" 0])
  ("AC_TRY_ACT" .
-  ["AC_005fACT_005fIFELSE-vs-AC_005fTRY_005fACT.html#index-AC_005fTRY_005f_0040var_007bACT_007d-2256" "AC_ACT_IFELSE vs AC_TRY_ACT"])
+  ["AC_005fACT_005fIFELSE-vs-AC_005fTRY_005fACT.html#index-AC_005fTRY_005f_0040var_007bACT_007d-2256" "AC_ACT_IFELSE vs AC_TRY_ACT" 0])
  ("AC_TRY_COMPILE" .
-  ["Obsolete-Macros.html#index-AC_005fTRY_005fCOMPILE-2204" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fTRY_005fCOMPILE-2204" "Obsolete Macros" 0])
  ("AC_TRY_CPP" .
-  ["Obsolete-Macros.html#index-AC_005fTRY_005fCPP-2206" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fTRY_005fCPP-2206" "Obsolete Macros" 0])
  ("AC_TRY_LINK" .
-  ["Obsolete-Macros.html#index-AC_005fTRY_005fLINK-2208" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fTRY_005fLINK-2208" "Obsolete Macros" 0])
  ("AC_TRY_LINK_FUNC" .
-  ["Obsolete-Macros.html#index-AC_005fTRY_005fLINK_005fFUNC-2210" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fTRY_005fLINK_005fFUNC-2210" "Obsolete Macros" 0])
  ("AC_TRY_RUN" .
-  ["Obsolete-Macros.html#index-AC_005fTRY_005fRUN-2212" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fTRY_005fRUN-2212" "Obsolete Macros" 0])
  ("AC_TYPE_GETGROUPS" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fGETGROUPS-723" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fGETGROUPS-723" "Particular Types" 0])
  ("AC_TYPE_INT16_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fINT16_005fT-732" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fINT16_005fT-732" "Particular Types" 0])
  ("AC_TYPE_INT32_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fINT32_005fT-737" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fINT32_005fT-737" "Particular Types" 0])
  ("AC_TYPE_INT64_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fINT64_005fT-742" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fINT64_005fT-742" "Particular Types" 0])
  ("AC_TYPE_INT8_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fINT8_005fT-727" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fINT8_005fT-727" "Particular Types" 0])
  ("AC_TYPE_INTMAX_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fINTMAX_005fT-747" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fINTMAX_005fT-747" "Particular Types" 0])
  ("AC_TYPE_INTPTR_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fINTPTR_005fT-751" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fINTPTR_005fT-751" "Particular Types" 0])
  ("AC_TYPE_LONG_DOUBLE" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fLONG_005fDOUBLE-755" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fLONG_005fDOUBLE-755" "Particular Types" 0])
  ("AC_TYPE_LONG_DOUBLE_WIDER" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fLONG_005fDOUBLE_005fWIDER-759" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fLONG_005fDOUBLE_005fWIDER-759" "Particular Types" 0])
  ("AC_TYPE_LONG_LONG_INT" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fLONG_005fLONG_005fINT-763" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fLONG_005fLONG_005fINT-763" "Particular Types" 0])
  ("AC_TYPE_MBSTATE_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fMBSTATE_005fT-767" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fMBSTATE_005fT-767" "Particular Types" 0])
  ("AC_TYPE_MODE_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fMODE_005fT-772" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fMODE_005fT-772" "Particular Types" 0])
  ("AC_TYPE_OFF_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fOFF_005fT-776" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fOFF_005fT-776" "Particular Types" 0])
  ("AC_TYPE_PID_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fPID_005fT-780" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fPID_005fT-780" "Particular Types" 0])
  ("AC_TYPE_SIGNAL" .
-  ["Obsolete-Macros.html#index-AC_005fTYPE_005fSIGNAL-2214" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fTYPE_005fSIGNAL-2214" "Obsolete Macros" 0])
  ("AC_TYPE_SIZE_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fSIZE_005fT-784" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fSIZE_005fT-784" "Particular Types" 0])
  ("AC_TYPE_SSIZE_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fSSIZE_005fT-788" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fSSIZE_005fT-788" "Particular Types" 0])
  ("AC_TYPE_UID_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fUID_005fT-792" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fUID_005fT-792" "Particular Types" 0])
  ("AC_TYPE_UINT16_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fUINT16_005fT-802" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fUINT16_005fT-802" "Particular Types" 0])
  ("AC_TYPE_UINT32_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fUINT32_005fT-807" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fUINT32_005fT-807" "Particular Types" 0])
  ("AC_TYPE_UINT64_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fUINT64_005fT-812" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fUINT64_005fT-812" "Particular Types" 0])
  ("AC_TYPE_UINT8_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fUINT8_005fT-797" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fUINT8_005fT-797" "Particular Types" 0])
  ("AC_TYPE_UINTMAX_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fUINTMAX_005fT-817" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fUINTMAX_005fT-817" "Particular Types" 0])
  ("AC_TYPE_UINTPTR_T" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fUINTPTR_005fT-821" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fUINTPTR_005fT-821" "Particular Types" 0])
  ("AC_TYPE_UNSIGNED_LONG_LONG_INT" .
-  ["Particular-Types.html#index-AC_005fTYPE_005fUNSIGNED_005fLONG_005fLONG_005fINT-825" "Particular Types"])
+  ["Particular-Types.html#index-AC_005fTYPE_005fUNSIGNED_005fLONG_005fLONG_005fINT-825" "Particular Types" 0])
  ("AC_UID_T" .
-  ["Obsolete-Macros.html#index-AC_005fUID_005fT-2218" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fUID_005fT-2218" "Obsolete Macros" 0])
  ("AC_UNISTD_H" .
-  ["Obsolete-Macros.html#index-AC_005fUNISTD_005fH-2220" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fUNISTD_005fH-2220" "Obsolete Macros" 0])
  ("AC_USE_SYSTEM_EXTENSIONS" .
-  ["Posix-Variants.html#index-AC_005fUSE_005fSYSTEM_005fEXTENSIONS-1118" "Posix Variants"])
+  ["Posix-Variants.html#index-AC_005fUSE_005fSYSTEM_005fEXTENSIONS-1118" "Posix Variants" 0])
  ("AC_USG" .
-  ["Obsolete-Macros.html#index-AC_005fUSG-2222" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fUSG-2222" "Obsolete Macros" 0])
  ("AC_UTIME_NULL" .
-  ["Obsolete-Macros.html#index-AC_005fUTIME_005fNULL-2225" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fUTIME_005fNULL-2225" "Obsolete Macros" 0])
  ("AC_VALIDATE_CACHED_SYSTEM_TUPLE" .
-  ["Obsolete-Macros.html#index-AC_005fVALIDATE_005fCACHED_005fSYSTEM_005fTUPLE-2227" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fVALIDATE_005fCACHED_005fSYSTEM_005fTUPLE-2227" "Obsolete Macros" 0])
  ("AC_VERBOSE" .
-  ["Obsolete-Macros.html#index-AC_005fVERBOSE-2229" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fVERBOSE-2229" "Obsolete Macros" 0])
  ("AC_VFORK" .
-  ["Obsolete-Macros.html#index-AC_005fVFORK-2231" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fVFORK-2231" "Obsolete Macros" 0])
  ("AC_VPRINTF" .
-  ["Obsolete-Macros.html#index-AC_005fVPRINTF-2233" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fVPRINTF-2233" "Obsolete Macros" 0])
  ("AC_WAIT3" .
-  ["Obsolete-Macros.html#index-AC_005fWAIT3-2235" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fWAIT3-2235" "Obsolete Macros" 0])
  ("AC_WARN" .
-  ["Obsolete-Macros.html#index-AC_005fWARN-2237" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fWARN-2237" "Obsolete Macros" 0])
  ("AC_WARNING" .
-  ["Reporting-Messages.html#index-AC_005fWARNING-1654" "Reporting Messages"])
+  ["Reporting-Messages.html#index-AC_005fWARNING-1654" "Reporting Messages" 0])
  ("AC_WITH" .
-  ["Obsolete-Macros.html#index-AC_005fWITH-2239" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fWITH-2239" "Obsolete Macros" 0])
  ("AC_WORDS_BIGENDIAN" .
-  ["Obsolete-Macros.html#index-AC_005fWORDS_005fBIGENDIAN-2241" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fWORDS_005fBIGENDIAN-2241" "Obsolete Macros" 0])
  ("AC_XENIX_DIR" .
-  ["Obsolete-Macros.html#index-AC_005fXENIX_005fDIR-2243" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fXENIX_005fDIR-2243" "Obsolete Macros" 0])
  ("AC_YYTEXT_POINTER" .
-  ["Obsolete-Macros.html#index-AC_005fYYTEXT_005fPOINTER-2246" "Obsolete Macros"])
+  ["Obsolete-Macros.html#index-AC_005fYYTEXT_005fPOINTER-2246" "Obsolete Macros" 0])
  ("AH_BOTTOM" .
-  ["Autoheader-Macros.html#index-AH_005fBOTTOM-221" "Autoheader Macros"])
+  ["Autoheader-Macros.html#index-AH_005fBOTTOM-221" "Autoheader Macros" 0])
  ("AH_HEADER" .
-  ["Configuration-Headers.html#index-AH_005fHEADER-207" "Configuration Headers"])
+  ["Configuration-Headers.html#index-AH_005fHEADER-207" "Configuration Headers" 0])
  ("AH_TEMPLATE" .
-  ["Autoheader-Macros.html#index-AH_005fTEMPLATE-215" "Autoheader Macros"])
+  ["Autoheader-Macros.html#index-AH_005fTEMPLATE-215" "Autoheader Macros" 0])
  ("AH_TOP" .
-  ["Autoheader-Macros.html#index-AH_005fTOP-219" "Autoheader Macros"])
+  ["Autoheader-Macros.html#index-AH_005fTOP-219" "Autoheader Macros" 0])
  ("AH_VERBATIM" .
-  ["Autoheader-Macros.html#index-AH_005fVERBATIM-217" "Autoheader Macros"])
+  ["Autoheader-Macros.html#index-AH_005fVERBATIM-217" "Autoheader Macros" 0])
  ("AU_ALIAS" .
-  ["Obsoleting-Macros.html#index-AU_005fALIAS-1675" "Obsoleting Macros"])
+  ["Obsoleting-Macros.html#index-AU_005fALIAS-1675" "Obsoleting Macros" 0])
  ("AU_DEFUN" .
-  ["Obsoleting-Macros.html#index-AU_005fDEFUN-1673" "Obsoleting Macros"])
- ("root" . "http://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.69/html_node/Autoconf-Macro-Index.html"))
+  ["Obsoleting-Macros.html#index-AU_005fDEFUN-1673" "Obsoleting Macros" 0])
+ ("_AM_DEPENDENCIES" .
+  ["Private-Macros.html#index-_005fAM_005fDEPENDENCIES" "Private Macros" 1])
+ ("AC_PROG_LIBTOOL" .
+  ["Optional.html#index-AC_005fPROG_005fLIBTOOL" "Optional" 1])
+ ("AM_CONDITIONAL" .
+  ["Usage-of-Conditionals.html#index-AM_005fCONDITIONAL-2" "Usage of Conditionals" 1])
+ ("AM_COND_IF" .
+  ["Usage-of-Conditionals.html#index-AM_005fCOND_005fIF-2" "Usage of Conditionals" 1])
+ ("AM_DEP_TRACK" .
+  ["Private-Macros.html#index-AM_005fDEP_005fTRACK" "Private Macros" 1])
+ ("AM_GNU_GETTEXT" .
+  ["Optional.html#index-AM_005fGNU_005fGETTEXT" "Optional" 1])
+ ("AM_GNU_GETTEXT_INTL_SUBDIR" .
+  ["Optional.html#index-AM_005fGNU_005fGETTEXT_005fINTL_005fSUBDIR" "Optional" 1])
+ ("AM_INIT_AUTOMAKE" .
+  ["Public-Macros.html#index-AM_005fINIT_005fAUTOMAKE-1" "Public Macros" 1])
+ ("AM_MAINTAINER_MODE" .
+  ["maintainer_002dmode.html#index-AM_005fMAINTAINER_005fMODE-1" "maintainer-mode" 1])
+ ("AM_MAINTAINER_MODE([default-mode])" .
+  ["Optional.html#index-AM_005fMAINTAINER_005fMODE_0028_005bdefault_002dmode_005d_0029" "Optional" 1])
+ ("AM_MAKE_INCLUDE" .
+  ["Private-Macros.html#index-AM_005fMAKE_005fINCLUDE" "Private Macros" 1])
+ ("AM_MISSING_PROG" .
+  ["Public-Macros.html#index-AM_005fMISSING_005fPROG" "Public Macros" 1])
+ ("AM_OUTPUT_DEPENDENCY_COMMANDS" .
+  ["Private-Macros.html#index-AM_005fOUTPUT_005fDEPENDENCY_005fCOMMANDS" "Private Macros" 1])
+ ("AM_PATH_LISPDIR" .
+  ["Public-Macros.html#index-AM_005fPATH_005fLISPDIR" "Public Macros" 1])
+ ("AM_PATH_PYTHON" .
+  ["Python.html#index-AM_005fPATH_005fPYTHON" "Python" 1])
+ ("AM_PROG_AR" .
+  ["Public-Macros.html#index-AM_005fPROG_005fAR" "Public Macros" 1])
+ ("AM_PROG_AS" .
+  ["Public-Macros.html#index-AM_005fPROG_005fAS" "Public Macros" 1])
+ ("AM_PROG_CC_C_O" .
+  ["Public-Macros.html#index-AM_005fPROG_005fCC_005fC_005fO" "Public Macros" 1])
+ ("AM_PROG_GCJ" .
+  ["Public-Macros.html#index-AM_005fPROG_005fGCJ" "Public Macros" 1])
+ ("AM_PROG_INSTALL_STRIP" .
+  ["Private-Macros.html#index-AM_005fPROG_005fINSTALL_005fSTRIP" "Private Macros" 1])
+ ("AM_PROG_LEX" .
+  ["Public-Macros.html#index-AM_005fPROG_005fLEX" "Public Macros" 1])
+ ("AM_PROG_MKDIR_P" .
+  ["Obsolete-Macros.html#index-AM_005fPROG_005fMKDIR_005fP" "Obsolete Macros" 1])
+ ("AM_PROG_UPC" .
+  ["Public-Macros.html#index-AM_005fPROG_005fUPC" "Public Macros" 1])
+ ("AM_PROG_VALAC" .
+  ["Vala-Support.html#index-AM_005fPROG_005fVALAC" "Vala Support" 1])
+ ("AM_SANITY_CHECK" .
+  ["Private-Macros.html#index-AM_005fSANITY_005fCHECK" "Private Macros" 1])
+ ("AM_SET_DEPDIR" .
+  ["Private-Macros.html#index-AM_005fSET_005fDEPDIR" "Private Macros" 1])
+ ("AM_SILENT_RULES" .
+  ["Public-Macros.html#index-AM_005fSILENT_005fRULES" "Public Macros" 1])
+ ("AM_SUBST_NOTMAKE(var)" .
+  ["Optional.html#index-AM_005fSUBST_005fNOTMAKE_0028var_0029" "Optional" 1])
+ ("AM_WITH_DMALLOC" .
+  ["Public-Macros.html#index-AM_005fWITH_005fDMALLOC" "Public Macros" 1])
+ ("m4_include" .
+  ["Optional.html#index-m4_005finclude-1" "Optional" 1]))
