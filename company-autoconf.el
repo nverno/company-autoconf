@@ -35,7 +35,7 @@
   (require 'cl-lib))
 (require 'company)
 
-(defgroup company-autoconfc nil
+(defgroup company-autoconf nil
   "Company backend for autoconf completion."
   :group 'company
   :prefix "company-autoconf-")
