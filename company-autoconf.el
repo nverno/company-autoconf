@@ -40,10 +40,15 @@
   :group 'company
   :prefix "company-autoconf-")
 
+(defcustom company-autoconf-ignore-case t
+  "Ignore case when completing."
+  :group 'company-autoconf
+  :type 'boolean)
+
 (defvar company-autoconf-data-file "macros.dat")
 
 ;; ------------------------------------------------------------
-;;* Internal
+
 (defvar company-autoconf-urls)
 (defvar company-autoconf-dir)
 (setq company-autoconf-dir
@@ -79,7 +84,8 @@
 ;; retrieval methods
 
 (defun company-autoconf-candidates (arg)
-  (all-completions arg company-autoconf-keywords))
+  (let ((completion-ignore-case company-autoconf-ignore-case))
+    (all-completions arg company-autoconf-keywords)))
 
 (defun company-autoconf-annotation (candidate)
   (or (get-text-property 0 'annot candidate) ""))
@@ -99,6 +105,8 @@
     (annotation (company-autoconf-annotation arg))
     (candidates (company-autoconf-candidates arg))
     (doc-buffer (company-autoconf-location arg))
+    (ignore-case company-autoconf-ignore-case)
+    (duplicates nil)
     (sorted t)))
 
 (provide 'company-autoconf)
