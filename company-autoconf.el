@@ -1,8 +1,9 @@
-;;; company-autoconf --- completion for autoconf script
+;;; company-autoconf.el --- completion for autoconf script -*- lexical-binding: t; -*-
 
 ;; Author: Noah Peart <noah.v.peart@gmail.com>
 ;; URL: https://github.com/nverno/company-autoconf
 ;; Package-Requires: 
+;; Last modified: <2019-02-06 22:59:25>
 ;; Copyright (C) 2016, Noah Peart, all rights reserved.
 ;; Created: 21 September 2016
 
