@@ -1,5 +1,6 @@
-require 'HTTParty'
-require 'Nokogiri'
+require 'httparty'
+require 'nokogiri'
+require 'openssl'
 require 'json'
 
 module Autoconf

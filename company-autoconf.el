@@ -3,7 +3,7 @@
 ;; Author: Noah Peart <noah.v.peart@gmail.com>
 ;; URL: https://github.com/nverno/company-autoconf
 ;; Package-Requires: 
-;; Last modified: <2019-02-06 22:59:25>
+;; Last modified: <2019-02-08 02:59:08>
 ;; Copyright (C) 2016, Noah Peart, all rights reserved.
 ;; Created: 21 September 2016
 
@@ -51,9 +51,8 @@
 ;; ------------------------------------------------------------
 
 (defvar company-autoconf-urls)
-(defvar company-autoconf-dir)
-(setq company-autoconf-dir
-      (when load-file-name (file-name-directory load-file-name)))
+(defvar company-autoconf-dir
+  (file-name-directory (or load-file-name (buffer-file-name))))
 
 (defun company-autoconf-load (file)
   (with-temp-buffer
