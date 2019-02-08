@@ -3,7 +3,7 @@
 ;; Author: Noah Peart <noah.v.peart@gmail.com>
 ;; URL: https://github.com/nverno/company-autoconf
 ;; Package-Requires: 
-;; Last modified: <2019-02-08 02:59:08>
+;; Last modified: <2019-02-08 06:37:05>
 ;; Copyright (C) 2016, Noah Peart, all rights reserved.
 ;; Created: 21 September 2016
 
@@ -105,6 +105,7 @@
     (annotation (company-autoconf-annotation arg))
     (candidates (company-autoconf-candidates arg))
     (doc-buffer (company-autoconf-location arg))
+    (meta (company-autoconf-annotation arg))
     (ignore-case company-autoconf-ignore-case)
     (duplicates nil)
     (sorted t)))
