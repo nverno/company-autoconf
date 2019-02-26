@@ -3,7 +3,7 @@
 ;; Author: Noah Peart <noah.v.peart@gmail.com>
 ;; URL: https://github.com/nverno/company-autoconf
 ;; Package-Requires: 
-;; Last modified: <2019-02-08 06:37:05>
+;; Last modified: <2019-02-26 01:45:18>
 ;; Copyright (C) 2016, Noah Peart, all rights reserved.
 ;; Created: 21 September 2016
 
@@ -77,7 +77,7 @@
      'string<)))
 
 (defun company-autoconf-prefix ()
-  (and (eq major-mode 'autoconf-mode)
+  (and (memq major-mode '(autoconf-mode m4-mode))
        (not (company-in-string-or-comment))
        (company-grab-symbol)))
 
