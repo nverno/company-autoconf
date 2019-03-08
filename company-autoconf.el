@@ -3,7 +3,7 @@
 ;; Author: Noah Peart <noah.v.peart@gmail.com>
 ;; URL: https://github.com/nverno/company-autoconf
 ;; Package-Requires: 
-;; Last modified: <2019-02-26 01:45:18>
+;; Last modified: <2019-03-07 23:31:52>
 ;; Copyright (C) 2016, Noah Peart, all rights reserved.
 ;; Created: 21 September 2016
 
@@ -92,9 +92,10 @@
 
 (defun company-autoconf-location (candidate)
   "Jump to CANDIDATE documentation in browser."
-  (browse-url
-   (concat (nth (get-text-property 0 'index candidate) company-autoconf-urls)
-           (get-text-property 0 'href candidate))))
+  (when-let* ((idx (get-text-property 0 'index candidate)))
+   (browse-url
+    (concat (nth idx company-autoconf-urls)
+            (get-text-property 0 'href candidate)))))
 
 ;;;###autoload
 (defun company-autoconf (command &optional arg &rest _args)
